@@ -43,7 +43,7 @@ module.exports = {
           title: 'FTA Knowledge Center',
           collapsable: false,
           children: [
-            'using-vue',
+            'Login',
           ]
         },
         {
