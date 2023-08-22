@@ -43,14 +43,15 @@ module.exports = {
           title: 'FTA Knowledge Center',
           collapsable: false,
           children: [
-            'Login',
+            'FTApageFirst',
           ]
         },
         {
           title: 'ការណែនាំផ្សេងៗ',
           collapsable: false,
           children: [
-            'login',
+            'Problems-and-Solutions',
+            'ForgotPassword',
           ]
         }
       ],

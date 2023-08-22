@@ -1,0 +1,9 @@
+# I. ការចូលប្រព័ន្ធ FTA Knowledge Center
+- សូមចូលទៅកាន់គេហទំព័រនេះ ដោយចុចលើ Link : <https://youtube.com>
+- បន្ទាប់មកវាយ Username និង Password របស់អ្នក
+- សូមបន្តចុចលើពាក្យថា `ចូលប្រព័ន្ធ / login​ in` <hr>
+
+![FillIn ](./pictures/FillInWithUsernameAndPassword.png)
+::: warning របៀបដោះស្រាយបញ្ហា
+ករណីមានបញ្ហាផ្សេងៗក្នុងការប្រើប្រាស់នូវ **ប្រព័ន្ធ FTA Knowledge Center**​ នេះ លោកអ្នកអាចធ្វើការទាក់ទងទៅកាន់លេខទូរស័ព្ទនេះ <br> `Tel: 012 212 015` ដើម្បីសួរព័ត៌មានបន្ថែម
+:::
