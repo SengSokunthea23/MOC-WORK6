@@ -47,11 +47,19 @@ module.exports = {
           ]
         },
         {
-          title: 'ការណែនាំផ្សេងៗ',
+          title: 'ការប្រើប្រាស់ត្រឹមត្រូវ',
           collapsable: false,
           children: [
-            'Problems-and-Solutions',
+            'TrueSolutions',
+          ]
+        },
+        {
+          title: 'ការប្រើប្រាស់មិនត្រឹមត្រូវ',
+          collapsable: false,
+          children: [
+            'InformationInPasswordAndUsername',
             'ForgotPassword',
+            'OTPcode',
           ]
         }
       ],
