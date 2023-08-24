@@ -51,6 +51,7 @@ module.exports = {
           collapsable: false,
           children: [
             'TrueSolutions',
+            'TrueSolutions(2)'
           ]
         },
         {
@@ -60,6 +61,13 @@ module.exports = {
             'InformationInPasswordAndUsername',
             'ForgotPassword',
             'OTPcode',
+          ]
+        },
+        {
+          title: 'ការកំណត់ (Settings)',
+          collapsable: false,
+          children: [
+            'account',
           ]
         }
       ],
