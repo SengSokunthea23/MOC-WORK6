@@ -6,9 +6,9 @@
 អ្នកប្រើប្រាស់មានតួនាទីលើការកំណត់ ពាក្យសម្ងាត់ របស់ខ្លួន :
 ![Pic ](./pictures/ChangePassword/InformationOfChangepasswordPage.png)
 
-- ធ្វើការចុច `Save Change` ដើម្បីទទួលយកនូវអ្វីដែលប្រើប្រាស់បានផ្លាស់ប្តូរ
+ធ្វើការចុច **Save Change** ដើម្បីទទួលយកនូវអ្វីដែលប្រើប្រាស់បានផ្លាស់ប្តូរ
   ::: warning របៀបដោះស្រាយបញ្ហា
-  រាល់ការផ្លាស់ប្តូរពាក្យសំខាត់ថ្មី អ្នកប្រើប្រាស់ចាំបាច់ត្រូវដាក់ទាំំង `ពាក្យសម្ងាត់បច្ចុប្បន្ន` និង `ពាក្យសម្ងាត់ថ្មី` ដែលចង់ផ្លាស់ប្តូរ
+  រាល់ការផ្លាស់ប្តូរពាក្យសំខាត់ថ្មី អ្នកប្រើប្រាស់ចាំបាច់ត្រូវដាក់ទាំំង `ពាក្យសម្ងាត់បច្ចុប្បន្ន`,  `ពាក្យសម្ងាត់ថ្មី`, `បញ្ជាក់ពាក្យសម្ងាត់ថ្មី` ដែលចង់ផ្លាស់ប្តូរ
   :::
 
 ## ១. ការមិនបញ្ចូល (Current Password, Password, Confirm Password)
@@ -128,3 +128,4 @@
 
 ![Pic ](./pictures/ChangePassword/Createapasswordchangefeaturethatsuccessfullyvalidatesandconfirmsthenewlyupdatedpassword.png)
 :::
+<hr>

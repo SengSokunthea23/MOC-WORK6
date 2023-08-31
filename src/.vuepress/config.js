@@ -69,6 +69,7 @@ module.exports = {
           children: [
             'account',
             'ChangePassword',
+            'Roles',
           ]
         }
       ],
