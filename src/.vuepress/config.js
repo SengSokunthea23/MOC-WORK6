@@ -47,7 +47,7 @@ module.exports = {
           ]
         },
         {
-          title: 'ការប្រើប្រាស់ត្រឹមត្រូវ',
+          title: 'ការប្រើប្រាស់ត្រឹមត្រូវ ✅',
           collapsable: false,
           children: [
             'TrueSolutions',
@@ -55,7 +55,7 @@ module.exports = {
           ]
         },
         {
-          title: 'ការប្រើប្រាស់មិនត្រឹមត្រូវ',
+          title: 'ការប្រើប្រាស់មិនត្រឹមត្រូវ ❌',
           collapsable: false,
           children: [
             'InformationInPasswordAndUsername',
