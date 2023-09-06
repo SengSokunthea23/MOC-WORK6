@@ -70,6 +70,8 @@ module.exports = {
             'account',
             'ChangePassword',
             'Roles',
+            'Users',
+            'ActivityLogs',
           ]
         }
       ],
