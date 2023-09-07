@@ -73,6 +73,13 @@ module.exports = {
             'Users',
             'ActivityLogs',
           ]
+        },
+        {
+          title: 'ព័ត៌មានក្នុង Manage Access 🦾',
+          collapsable: false,
+          children: [
+            'ManageAccess',
+          ]
         }
       ],
     }
