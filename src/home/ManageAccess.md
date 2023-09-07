@@ -7,7 +7,7 @@
 ![Pic ](./pictures/Roles/ManageAccess/actionInUsers.png)
 <hr>
 
-បន្ទាប់
+បន្ទាប់ពីចូលក្នុង Action រួច :
 ![Pic ](./pictures/Roles/ManageAccess/assignRole.png)
 :::
 ## ១. ការយល់ដឹងអំពីព័ត៌មានក្នុង Manage Access នៃ Roles
