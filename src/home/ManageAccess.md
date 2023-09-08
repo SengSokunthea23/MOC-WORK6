@@ -36,9 +36,9 @@
 - ចុច _Cancel_ សម្រាប់ទៅរកទម្រង់ដើម
   :::
 
-## ២. ការគ្រប់គ្រង User Permissions ក្នុង Manage Access
+## ២. ការមិនបើកចំណុចទាំងអស់ក្នុង User Permissions និង User Interface
 
-::: tip វិធីសាស្ត្រយល់ដឹងអំពីការកំណត់ព័ត៌មានក្នុង User Permissions
+::: tip វិធីសាស្ត្រយល់ដឹងអំពីការកំណត់ព័ត៌មានក្នុង User Permissions និង User Interface
 
 - សម្រាប់ Admin មិនបាន Click ✅ ក្នុងចំណុចណាមួយនៃ User Permissions និង User Interface ទេ ។
 - ក្រោយចុច _Save_ រួច _User_ ដែលបានបង្កើតដោយ `Admin` នោះ មានតួនាទីជា _default_ _(លំនាំដើម ឬ លំនាំធម្មតា)_
@@ -51,3 +51,21 @@
 ព័ត៌មានសម្រាប់ User :
 ![Pic ](./pictures/Roles/ManageAccess/default.png)
 :::
+
+## ៣. ការបើកអនុញ្ញាតសកម្មភាពទាំងអស់ក្នុង User Interface
+::: tip វិធីសាស្ត្រយល់ដឹងអំពីការបើកគ្រប់ចំណុចទាំងអស់ក្នុងគេហទំព័រ User Interface
+- ចូលទៅកាន់ _User Interface_ ក្នុងចំណុច `Dashbord`
+- ផ្តល់ព័ត៌មានគ្រប់ចំណុចដែលមិនទាន់បានបំពេញរួច
+
+ព័ត៌មានសម្រាប់ Admin ត្រូវធ្វើ :
+![Pic ](./pictures/Roles/ManageAccess/UserInterface.png)
+<hr>
+
+ ![Pic ](./pictures/Roles/ManageAccess/UserInterfaceWithAllClick.png)
+`Admin` បានផ្តល់តួនាទីឲ្យ **User** ចូលក្នុងប្រព័ន្ធបានត្រឹមតែចូលមើលតែប៉ុណ្ណោះ!
+<hr>
+
+ព័ត៌មានសម្រាប់ User ត្រូវដឹង :  <br>
+Coming soon ....
+::: 
+## ៤.ការអនុញ្ញាតទាំងអស់នៅក្នុង User Permissions  និង User Interface រាល់ចំណុចប្រទាក់របស់អ្នកប្រើប្រាស់
