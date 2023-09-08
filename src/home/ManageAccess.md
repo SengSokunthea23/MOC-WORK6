@@ -68,4 +68,11 @@
 ព័ត៌មានសម្រាប់ User ត្រូវដឹង :  <br>
 Coming soon ....
 ::: 
-## ៤.ការអនុញ្ញាតទាំងអស់នៅក្នុង User Permissions  និង User Interface រាល់ចំណុចប្រទាក់របស់អ្នកប្រើប្រាស់
+## ៤.ការអនុញ្ញាតទាំងអស់នៅក្នុង User Permissions  និង User Interface គ្រប់ចំណុច
+::: tip វិធីសាស្ត្រយល់ដឹងអំពីការបើកដំណើរការនូវសកម្មភាពផ្សេងៗក្នុងចំណុចទាំងពីរ
+- ចូលទៅកាន់
+
+
+![Pic ](./pictures/Roles/ManageAccess/clickallinManageAccess.png)
+<hr>
+:::
