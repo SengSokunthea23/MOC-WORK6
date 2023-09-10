@@ -99,5 +99,23 @@ Coming soon ....
 
 ក្នុង **Settings** អ្នកប្រើប្រាស់អាចធ្វើការជាធម្មតា !! 
 :::
-## ៥. ការអនុញ្ញាតត្រឹមតែចំណុច
-![Pic ](./pictures/Roles/ManageAccess/ClickUserPermission.png)
+## ៥. ការអនុញ្ញាតត្រឹមតែការចូលមើល តែមិនអាចធ្វើការកំណត់បាន
+::: tip វិធីសាស្ត្រយល់ដឹងអំពីការកំណត់មិនឲ្យធ្វើអ្វីបានក្រៅពីការអាន
+ព័ត៌មានសម្រាប់ Admin ត្រូវធ្វើ :
+
+- ចំពោះ User Permission មិនតម្រូវឲ្យបិទនោះទេ ❌
+- Admin ផ្តល់ត្រឹមការអាន និង មើល ដល់ User (អ្នកប្រើប្រាស់) <br> ការធ្វើបែបនេះតម្រូវឲ្យបិទសញ្ញា Click ✅ ក្នុង User Interface 
+- អ្នកប្រើប្រាស់ ពុំអាចធ្វើការបានទេក្រោយ Admin បានកំណត់រួច
+
+![Pic ](./pictures/Roles/ManageAccess/clickAllUserPermission(2).png)
+<hr>
+
+![Pic ](./pictures/Roles/ManageAccess/clickAllUserPermission.png)
+
+ព័ត៌មានសម្រាប់ User (អ្នកប្រើប្រាស់) ត្រូវដឹង :
+- អ្នកប្រើប្រាស់ពុំអាចធ្វើការមើលឃើញ ការបង្ហាញព័ត៌មាននៅផ្នែកខាងឆ្វេង (Sidebar) បានទេ
+- អ្នកប្រើប្រាស់មើលបានតែព័ត៌មាន Settings មួយតែប៉ុណ្ណោះ <br> មើលបានតែ ( Account , change Password និង Activity logs) តែប៉ុណ្ណោះ ។ 
+- អ្នកប្រើប្រាស់អាចត្រឹមតែ Change Password (ប្តូរពាក្យសម្ងាត់)
+- ការផ្លាស់ប្តូរពាក្យសម្ងាត់រួចវានឹងទៅកាន់គេហទំព័រដើមវិញ
+
+![Pic ](./pictures/Roles/ManageAccess/OnlyViewSettings.png)
