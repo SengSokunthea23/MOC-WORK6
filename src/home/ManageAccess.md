@@ -69,27 +69,27 @@
 Coming soon ....
 ::: 
 ## ៤.ការអនុញ្ញាតទាំងអស់នៅក្នុង User Permissions  និង User Interface គ្រប់ចំណុច
-::: tip វិធីសាស្ត្រយល់ដឹងអំពីការបើកដំណើរការនូវសកម្មភាពផ្សេងៗក្នុងចំណុចទាំងពីរ
-- ចូលទៅកាន់ Manage Access ដដែលបន្ទាប់មកចូលទៅចុចអនុញ្ញាតទាំងពីរចំណុចរួមមាន `User Permissions` និង `User Interface` 
+::: tip វិធីសាស្ត្រយល់ដឹងអំពីការបើកដំណើរការនូវសកម្មភាពផ្សេងៗក្នុងចំណុចទាំងពីរធំៗ
+- ចូលទៅកាន់ Manage Access ដដែលបន្ទាប់មកចូលទៅចុចអនុញ្ញាតទាំងពីរចំណុចធំៗរួមមាន `User Permissions` និង `User Interface` 
 - ក្នុង `User Interface` ចុចអនុញ្ញាតទាំង *Dashboard* , *Cloud Storage* , *Recovery* , *Settings* ផងដែរ ។
 
 ព័ត៌មានសម្រាប់ Admin ត្រូវធ្វើ :
 ![Pic ](./pictures/Roles/ManageAccess/clickallinManageAccess.png)
 >ការបើកចំណុចទាំងពីរខាងលើគឺអនុញ្ញាតឲ្យ User (អ្នកប្រើប្រាស់) មានសិទ្ធិក្នុងការកែប្រែ (Edit, Modify and Remove) គ្រប់ចំណុចលើ Website បាន
 
-នៅក្នុង **Cloud Storage** អ្នកប្រើប្រាស់អាច :
-- ការបង្កើត Batch Upload 
-- ការបង្កើត File 
-- ការបង្កើត Folder
-
-![Pic ](./pictures/Roles/ManageAccess/AddFile.png)
-<hr>
-
 ក្នុង **Dashboard** អ្នកប្រើប្រាស់អាច :
 - អាចចូលមើលនឹងកែប្រែគ្រប់ចំណុចដែលមាន
 - គ្រប់ព័ត៌មានរបស់ User (អ្នកប្រើប្រាស់) អាចដឹងបាន
 
 ![Pic ](./pictures/Roles/ManageAccess/dashboradNews.png)
+
+នៅក្នុង **Cloud Storage** អ្នកប្រើប្រាស់អាច :
+- បង្កើត Batch Upload 
+- បង្កើត File 
+- បង្កើត Folder
+
+![Pic ](./pictures/Roles/ManageAccess/AddFile.png)
+<hr>
 
 ក្នុង **Recovery** អ្នកប្រើប្រាស់អាច : 
 - ធ្វើការ «Recovery» (ការយកមកប្រើប្រាស់ជាថ្មី) និង «Delete» ចំពោះ Folder ជាមួយនឹង ទិន្នន័យផ្សេងៗ​ដែលអ្នកប្រើប្រាស់យល់ថាមានបញ្ហា ឬុ ចង់លុបចេញ
