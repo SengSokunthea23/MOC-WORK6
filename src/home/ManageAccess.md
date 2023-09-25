@@ -178,3 +178,13 @@ Admin បានមកដល់ក្នុង Manage Access :
 :::
 
 ## ៨. ការអនុញ្ញាតត្រឹមការអាន និង ការសរសេរដល់អ្នកប្រើប្រាស់
+
+::: tip វិធីសាស្ត្រយល់ដឹងអំពីដំណើរការនៃដែល Admin ធ្វើឲ្យ Users មានតួនាទីត្រឹមការ អាន និង ការសរសេរ តែប៉ុណ្ណោះ
+ព័ត៌មានសម្រាប់ Admin ត្រូវធ្វើ : <br/>
+
+- ធ្វើការ Click ✅ ក្នុងប្រអប់ទាំងអស់ដែលមានក្នុង `User Actions`
+- បន្ទាប់ពីនោះសូមចូលក្នុង `User Interface` ក្នុង _Dashboard_ ធ្វើការ Click ✅ _READ_ និង _WRITE_
+- មិនតម្រូវឲ្យធ្វើការ​ សញ្ញា Click ក្នុង `User Interface` គ្រប់ចំណុច ❌
+
+![Pic ](./pictures/Roles/ManageAccess/ReadandWriteForUserKnow.png)
+:::
