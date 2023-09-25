@@ -179,12 +179,28 @@ Admin បានមកដល់ក្នុង Manage Access :
 
 ## ៨. ការអនុញ្ញាតត្រឹមការអាន និង ការសរសេរដល់អ្នកប្រើប្រាស់
 
-::: tip វិធីសាស្ត្រយល់ដឹងអំពីដំណើរការនៃដែល Admin ធ្វើឲ្យ Users មានតួនាទីត្រឹមការ អាន និង ការសរសេរ តែប៉ុណ្ណោះ
+::: tip វិធីសាស្ត្រយល់ដឹងអំពីដំណើរការរបស់ Admin ធ្វើឲ្យ Users មានតួនាទីត្រឹមការ អាន និង ការសរសេរ 
 ព័ត៌មានសម្រាប់ Admin ត្រូវធ្វើ : <br/>
 
 - ធ្វើការ Click ✅ ក្នុងប្រអប់ទាំងអស់ដែលមានក្នុង `User Actions`
-- បន្ទាប់ពីនោះសូមចូលក្នុង `User Interface` ក្នុង _Dashboard_ ធ្វើការ Click ✅ _READ_ និង _WRITE_
-- មិនតម្រូវឲ្យធ្វើការ​ សញ្ញា Click ក្នុង `User Interface` គ្រប់ចំណុច ❌
+- បន្ទាប់ពីនោះសូមចូលទៅក្នុង `User Interface` ក្នុង _Dashboard_ ធ្វើការ Click ✅ _READ_ និង _WRITE_
+- សម្រាប់ព័ត៌មានក្នុង *Cloud Storage* ធ្វើការ Click ✅ *FAVORITE* តែមួយគត់
+- មិនតម្រូវឲ្យធ្វើការ​ Click ព័ត៌មាន ❌​ នៅផ្នែកណាបន្ថែមទៀតទេ
 
 ![Pic ](./pictures/Roles/ManageAccess/ReadandWriteForUserKnow.png)
+<hr/>
+
+![Pic ](./pictures/Roles/ManageAccess/ReadandWriteForUserKnow2.png)
+<hr/>
+
+![Pic ](./pictures/Roles/ManageAccess/ReadandWriteForUserKnow3.png)
+
+ព័ត៌មានសម្រាប់ User (អ្នកប្រើប្រាស់) ត្រូវដឹង :
+
+- អាចមើលឃើញផ្ទាំង Sidebar ដូចជា : `Dashboard` និង `Setting`
+- អាចមើលឃើញផ្ទាំងពីរនៅក្នុង Dashboard (ទំព័រផ្ទាំងគ្រប់គ្រង) `(storage Overview)` និង `(Favorite folders)`
+- ទិដ្ឋភាពទូទៅនៃការបង្ហាញចេញ `Storage Overview` អាចមើលឃើញឯកសារ និងទិន្នន័យមួយចំនួន *(រូបភាព , វីដេអូ , ឯកសារ និង ឯកសារផ្សេងទៀត)*
+- នៅក្នុង `Storage Overview` អាចឃើញថតឯកសារ និងសកម្មភាពនៃ *(Download , share និង Remove)* ប៉ុន្តែសកម្មភាពទាំងអស់ <br/> ❌ មិនដំណើរការទេនៅពេលចុច ❌
+- អាចមើលការ Setting និង Tab (កំណត់ទំព័រ និងផ្ទាំង) (Account , Change Password និង Activity logs)
+- អាចផ្លាស់ប្តូរ Password (លេខសម្ងាត់) ហើយនៅពេលដែលការផ្លាស់ប្តូរដោយជោគជ័យ ប្តូរទិសទៅកាន់ទំព័រចូល ឬ គេហទំព័រដើមដំបូងវិញ
 :::
