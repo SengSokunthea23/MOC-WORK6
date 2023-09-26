@@ -200,11 +200,11 @@ Admin បានមកដល់ក្នុង Manage Access :
 ព័ត៌មានសម្រាប់ User (អ្នកប្រើប្រាស់) ត្រូវដឹង :
 
 - អាចមើលឃើញផ្ទាំង Sidebar ដូចជា : `Dashboard` និង `Setting`
-- អាចមើលឃើញផ្ទាំងបួននៅក្នុង Dashboard (ទំព័រផ្ទាំងគ្រប់គ្រង) *Storage Overview* , 📂*Favorite Folders* , 🔗*Quick Access* និង 📚*Recent Files*
-- ទិដ្ឋភាពទូទៅនៃការបង្ហាញចេញ *Storage Overview* អាចមើលឃើញឯកសារ និងទិន្នន័យមួយចំនួន _(👨 រូបភាព  ,🎥 វីដេអូ ,📝 ឯកសារ និង 📰 ឯកសារផ្សេងទៀត)_ 
-- នៅក្នុង *Storage Overview* អាចឃើញថតឯកសារ និងសកម្មភាពនៃ _(Download , share និង Remove)_ ប៉ុន្តែសកម្មភាពទាំងអស់ ❌ មិនដំណើរការទេនៅពេលចុចចំណុចណាមួយនោះ ❌
+- អាចមើលឃើញផ្ទាំងបួននៅក្នុង Dashboard (ទំព័រផ្ទាំងគ្រប់គ្រង) _Storage Overview_ , 📂*Favorite Folders* , 🔗*Quick Access* និង 📚*Recent Files*
+- ទិដ្ឋភាពទូទៅនៃការបង្ហាញចេញ _Storage Overview_ អាចមើលឃើញឯកសារ និងទិន្នន័យមួយចំនួន _(👨 រូបភាព ,🎥 វីដេអូ ,📝 ឯកសារ និង 📰 ឯកសារផ្សេងទៀត)_
+- នៅក្នុង _Storage Overview_ អាចឃើញថតឯកសារ និងសកម្មភាពនៃ _(Download , share និង Remove)_ ប៉ុន្តែសកម្មភាពទាំងអស់ ❌ មិនដំណើរការទេនៅពេលចុចចំណុចណាមួយនោះ ❌
 - អាចមើលពី `Setting` និង `Tab` (កំណត់ទំព័រ និងផ្ទាំង)​ ដែលក្នុងនោះមានដូចជា _(Account , Change Password_ និង _Activity logs)_
-- អាចផ្លាស់ប្តូរ *Password* (លេខសម្ងាត់) ហើយនៅពេលដែលការផ្លាស់ប្តូរដោយជោគជ័យលោកអ្នកនឹង ប្តូរទិសទៅកាន់ទំព័រចូល ឬ គេហទំព័រដើមដំបូងវិញ
+- អាចផ្លាស់ប្តូរ _Password_ (លេខសម្ងាត់) ហើយនៅពេលដែលការផ្លាស់ប្តូរដោយជោគជ័យលោកអ្នកនឹង ប្តូរទិសទៅកាន់ទំព័រចូល ឬ គេហទំព័រដើមដំបូងវិញ
 
 ចំពោះព័ត៌មាននៅលើ **Sidebar** :
 ![Pic ](./pictures/Roles/ManageAccess/ReadandWriteInUser1.png)
@@ -215,17 +215,31 @@ Admin បានមកដល់ក្នុង Manage Access :
 
 <hr/>
 
-ចំពោះព័ត៌មាននៅក្នុង **Dashboard** ចំណុច *« Storage Overview »*
->ក្នុង Storage Overview បានត្រឹមការមើលឃើញតែប៉ុណ្ណោះ
+ចំពោះព័ត៌មាននៅក្នុង **Dashboard** ចំណុច _« Storage Overview »_
+
+> ក្នុង Storage Overview បានត្រឹមការមើលឃើញតែប៉ុណ្ណោះ
 
 ![Pic ](./pictures/Roles/ManageAccess/ReadandWriteInUser2.png)
 
 <hr/>
 
-ចំពោះព័ត៌មាននៅក្នុង **Dashboard** ចំណុច *« Favorite Folders »*
->ក្នុង Favorite Folders បានត្រឹមការមើលឃើញមួយមុខគត់
+ចំពោះព័ត៌មាននៅក្នុង **Dashboard** ចំណុច _« Favorite Folders »_
 
 ![Pic ](./pictures/Roles/ManageAccess/ReadandWriteInUser3.png)
 
-<hr>
-  :::
+<hr/>
+
+ចំពោះព័ត៌មាននៅក្នុង **Dashboard** ចំណុច _« Quick Access »_
+
+![Pic ](./pictures/Roles/ManageAccess/ReadandWriteInUser4.png)
+
+ចំពោះព័ត៌មាននៅក្នុង **Dashboard** ចំណុច _« Recent Files »_
+
+![Pic ](./pictures/Roles/ManageAccess/ReadandWriteInUser5.png)
+
+<hr/>
+
+ចំពោះព័ត៌មាននៅក្នុង **Setting** ⚙️ :
+
+![Pic ](./pictures/Roles/ManageAccess/ReadandWriteForUserInSetting.png)
+:::
