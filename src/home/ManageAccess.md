@@ -179,18 +179,20 @@ Admin បានមកដល់ក្នុង Manage Access :
 
 ## ៨. ការអនុញ្ញាតត្រឹមការអាន និង ការសរសេរដល់អ្នកប្រើប្រាស់
 
-::: tip វិធីសាស្ត្រយល់ដឹងអំពីដំណើរការរបស់ Admin ធ្វើឲ្យ Users មានតួនាទីត្រឹមការ អាន និង ការសរសេរ 
+::: tip វិធីសាស្ត្រយល់ដឹងអំពីដំណើរការរបស់ Admin ធ្វើឲ្យ Users មានតួនាទីត្រឹមការ អាន និង ការសរសេរ
 ព័ត៌មានសម្រាប់ Admin ត្រូវធ្វើ : <br/>
 
 - ធ្វើការ Click ✅ ក្នុងប្រអប់ទាំងអស់ដែលមានក្នុង `User Actions`
 - បន្ទាប់ពីនោះសូមចូលទៅក្នុង `User Interface` ក្នុង _Dashboard_ ធ្វើការ Click ✅ _READ_ និង _WRITE_
-- សម្រាប់ព័ត៌មានក្នុង *Cloud Storage* ធ្វើការ Click ✅ *FAVORITE* តែមួយគត់
+- សម្រាប់ព័ត៌មានក្នុង _Cloud Storage_ ធ្វើការ Click ✅ _FAVORITE_ តែមួយគត់
 - មិនតម្រូវឲ្យធ្វើការ​ Click ព័ត៌មាន ❌​ នៅផ្នែកណាបន្ថែមទៀតទេ
 
 ![Pic ](./pictures/Roles/ManageAccess/ReadandWriteForUserKnow.png)
+
 <hr/>
 
 ![Pic ](./pictures/Roles/ManageAccess/ReadandWriteForUserKnow2.png)
+
 <hr/>
 
 ![Pic ](./pictures/Roles/ManageAccess/ReadandWriteForUserKnow3.png)
@@ -198,9 +200,32 @@ Admin បានមកដល់ក្នុង Manage Access :
 ព័ត៌មានសម្រាប់ User (អ្នកប្រើប្រាស់) ត្រូវដឹង :
 
 - អាចមើលឃើញផ្ទាំង Sidebar ដូចជា : `Dashboard` និង `Setting`
-- អាចមើលឃើញផ្ទាំងពីរនៅក្នុង Dashboard (ទំព័រផ្ទាំងគ្រប់គ្រង) `(storage Overview)` និង `(Favorite folders)`
-- ទិដ្ឋភាពទូទៅនៃការបង្ហាញចេញ `Storage Overview` អាចមើលឃើញឯកសារ និងទិន្នន័យមួយចំនួន *(រូបភាព , វីដេអូ , ឯកសារ និង ឯកសារផ្សេងទៀត)*
-- នៅក្នុង `Storage Overview` អាចឃើញថតឯកសារ និងសកម្មភាពនៃ *(Download , share និង Remove)* ប៉ុន្តែសកម្មភាពទាំងអស់ <br/> ❌ មិនដំណើរការទេនៅពេលចុច ❌
-- អាចមើលការ Setting និង Tab (កំណត់ទំព័រ និងផ្ទាំង) (Account , Change Password និង Activity logs)
-- អាចផ្លាស់ប្តូរ Password (លេខសម្ងាត់) ហើយនៅពេលដែលការផ្លាស់ប្តូរដោយជោគជ័យ ប្តូរទិសទៅកាន់ទំព័រចូល ឬ គេហទំព័រដើមដំបូងវិញ
-:::
+- អាចមើលឃើញផ្ទាំងបួននៅក្នុង Dashboard (ទំព័រផ្ទាំងគ្រប់គ្រង) *Storage Overview* , 📂*Favorite Folders* , 🔗*Quick Access* និង 📚*Recent Files*
+- ទិដ្ឋភាពទូទៅនៃការបង្ហាញចេញ *Storage Overview* អាចមើលឃើញឯកសារ និងទិន្នន័យមួយចំនួន _(👨 រូបភាព  ,🎥 វីដេអូ ,📝 ឯកសារ និង 📰 ឯកសារផ្សេងទៀត)_ 
+- នៅក្នុង *Storage Overview* អាចឃើញថតឯកសារ និងសកម្មភាពនៃ _(Download , share និង Remove)_ ប៉ុន្តែសកម្មភាពទាំងអស់ ❌ មិនដំណើរការទេនៅពេលចុចចំណុចណាមួយនោះ ❌
+- អាចមើលពី `Setting` និង `Tab` (កំណត់ទំព័រ និងផ្ទាំង)​ ដែលក្នុងនោះមានដូចជា _(Account , Change Password_ និង _Activity logs)_
+- អាចផ្លាស់ប្តូរ *Password* (លេខសម្ងាត់) ហើយនៅពេលដែលការផ្លាស់ប្តូរដោយជោគជ័យលោកអ្នកនឹង ប្តូរទិសទៅកាន់ទំព័រចូល ឬ គេហទំព័រដើមដំបូងវិញ
+
+ចំពោះព័ត៌មាននៅលើ **Sidebar** :
+![Pic ](./pictures/Roles/ManageAccess/ReadandWriteInUser1.png)
+
+<hr/>
+
+![Pic ](./pictures/Roles/ManageAccess/ReadandWriteInUser1-Copy.png)
+
+<hr/>
+
+ចំពោះព័ត៌មាននៅក្នុង **Dashboard** ចំណុច *« Storage Overview »*
+>ក្នុង Storage Overview បានត្រឹមការមើលឃើញតែប៉ុណ្ណោះ
+
+![Pic ](./pictures/Roles/ManageAccess/ReadandWriteInUser2.png)
+
+<hr/>
+
+ចំពោះព័ត៌មាននៅក្នុង **Dashboard** ចំណុច *« Favorite Folders »*
+>ក្នុង Favorite Folders បានត្រឹមការមើលឃើញមួយមុខគត់
+
+![Pic ](./pictures/Roles/ManageAccess/ReadandWriteInUser3.png)
+
+<hr>
+  :::
