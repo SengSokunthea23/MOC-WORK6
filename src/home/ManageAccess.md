@@ -200,7 +200,8 @@ Admin បានមកដល់ក្នុង Manage Access :
 ព័ត៌មានសម្រាប់ User (អ្នកប្រើប្រាស់) ត្រូវដឹង :
 
 - អាចមើលឃើញផ្ទាំង Sidebar ដូចជា : `Dashboard` និង `Setting`
-- អាចមើលឃើញផ្ទាំងបួននៅក្នុង Dashboard (ទំព័រផ្ទាំងគ្រប់គ្រង) _Storage Overview_ , 📂*Favorite Folders* , 🔗*Quick Access* និង 📚*Recent Files*
+- អាចមើលឃើញផ្ទាំងបួននៅក្នុង Dashboard (ទំព័រផ្ទាំងគ្រប់គ្រង) <br/> _Storage Overview_ , 📂<br/>*Favorite Folders* , 🔗<br/>*Quick Access* <br/>
+និង 📚*Recent Files*
 - ទិដ្ឋភាពទូទៅនៃការបង្ហាញចេញ _Storage Overview_ អាចមើលឃើញឯកសារ និងទិន្នន័យមួយចំនួន _(👨 រូបភាព ,🎥 វីដេអូ ,📝 ឯកសារ និង 📰 ឯកសារផ្សេងទៀត)_
 - នៅក្នុង _Storage Overview_ អាចឃើញថតឯកសារ និងសកម្មភាពនៃ _(Download , share និង Remove)_ ប៉ុន្តែសកម្មភាពទាំងអស់ ❌ មិនដំណើរការទេនៅពេលចុចចំណុចណាមួយនោះ ❌
 - អាចមើលពី `Setting` និង `Tab` (កំណត់ទំព័រ និងផ្ទាំង)​ ដែលក្នុងនោះមានដូចជា _(Account , Change Password_ និង _Activity logs)_
@@ -243,3 +244,5 @@ Admin បានមកដល់ក្នុង Manage Access :
 
 ![Pic ](./pictures/Roles/ManageAccess/ReadandWriteForUserInSetting.png)
 :::
+
+## ៩. ការអនុញ្ញាតត្រឹមការអាន និង ការសរសេរដល់អ្នកប្រើប្រាស់
