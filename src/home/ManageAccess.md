@@ -200,8 +200,8 @@ Admin បានមកដល់ក្នុង Manage Access :
 ព័ត៌មានសម្រាប់ User (អ្នកប្រើប្រាស់) ត្រូវដឹង :
 
 - អាចមើលឃើញផ្ទាំង Sidebar ដូចជា : `Dashboard` និង `Setting`
-- អាចមើលឃើញផ្ទាំងបួននៅក្នុង Dashboard (ទំព័រផ្ទាំងគ្រប់គ្រង) <br/> _Storage Overview_ , 📂<br/>*Favorite Folders* , 🔗<br/>*Quick Access* <br/>
-និង 📚*Recent Files*
+- អាចមើលឃើញផ្ទាំងបួននៅក្នុង Dashboard (ទំព័រផ្ទាំងគ្រប់គ្រង) <br/> 🧮 _Storage Overview_ , 📂<br/>_Favorite Folders_ , 🔗<br/>_Quick Access_ <br/>
+  និង 📚*Recent Files*
 - ទិដ្ឋភាពទូទៅនៃការបង្ហាញចេញ _Storage Overview_ អាចមើលឃើញឯកសារ និងទិន្នន័យមួយចំនួន _(👨 រូបភាព ,🎥 វីដេអូ ,📝 ឯកសារ និង 📰 ឯកសារផ្សេងទៀត)_
 - នៅក្នុង _Storage Overview_ អាចឃើញថតឯកសារ និងសកម្មភាពនៃ _(Download , share និង Remove)_ ប៉ុន្តែសកម្មភាពទាំងអស់ ❌ មិនដំណើរការទេនៅពេលចុចចំណុចណាមួយនោះ ❌
 - អាចមើលពី `Setting` និង `Tab` (កំណត់ទំព័រ និងផ្ទាំង)​ ដែលក្នុងនោះមានដូចជា _(Account , Change Password_ និង _Activity logs)_
@@ -216,7 +216,7 @@ Admin បានមកដល់ក្នុង Manage Access :
 
 <hr/>
 
-ចំពោះព័ត៌មាននៅក្នុង **Dashboard** ចំណុច _« Storage Overview »_
+ចំពោះព័ត៌មាននៅក្នុង **Dashboard** ចំណុច 🧮 _« Storage Overview »_
 
 > ក្នុង Storage Overview បានត្រឹមការមើលឃើញតែប៉ុណ្ណោះ
 
@@ -245,4 +245,62 @@ Admin បានមកដល់ក្នុង Manage Access :
 ![Pic ](./pictures/Roles/ManageAccess/ReadandWriteForUserInSetting.png)
 :::
 
-## ៩. ការអនុញ្ញាតត្រឹមការអាន និង ការសរសេរដល់អ្នកប្រើប្រាស់
+## ៩. ការកំណត់ក្នុង User Interface ត្រង់គេហទំព័រ Dashboard និង Cloud Storage
+
+::: tip វិធីសាស្ត្រយល់ដឹងពីការបើកគ្រប់ចំណុចក្នុងគេហទំព័រ Dashboard និងបើក Favorite Folders តែមួយគត់ក្នុងគេហទំព័រ Cloud Storage
+ព័ត៌មានសម្រាប់ Admin ត្រូវធ្វើ :
+
+- ផ្តល់ការ Click ✅ ក្នុង _User Actions_ គ្រប់ចំណុច
+- ក្នុងគេហទំព័រ _Dashboard_ ក៏ត្រូវធ្វើការបំពេញ Click ✅ គ្រប់ចំណុចដូចគ្នា
+- ស្ថិតក្នុងគេហទំព័័រ _Cloud Storage_ ដោយធ្វើការ Click ✅ ត្រឹមតែ _FAVORITE_ មួយគត់
+- ក្នុង `Settings` ធ្វើការ Click ✅ ចំណុច _READ_
+
+![Pic ](./pictures/Roles/ManageAccess/OpenAllPermissionInDashboardAndOnlyOneOnDashboardPage2.png)
+
+<hr/>
+
+![Pic ](./pictures/Roles/ManageAccess/OpenAllPermissionInDashboardAndOnlyOneOnDashboardPage1.png)
+
+<hr/>
+
+![Pic ](./pictures/Roles/ManageAccess/OpenAllPermissionInDashboardAndOnlyOneOnDashboardPage3.png)
+
+ព័ត៌មានសម្រាប់ User (អ្នកប្រើប្រាស់) ត្រូវដឹង :
+
+- អាចមើលឃើញទំព័រ `Dashboard` និង `Settings` ( *Dashboard | FTA Knowledge Center* ) 
+- អាចមើលឃើញផ្ទាំងចំនួន ៤ នៅក្នុងគេហទំព័រ `Dashboard` (ផ្ទាំងគ្រប់គ្រង) ( _🧮 Storage Overview_ , 📂 *Favorite Folders* , 🔗 *Quick Access* ,
+  📚 *Recent Files*)
+- ទិដ្ឋភាពទូទៅនៃការបង្ហាញចេញ _Storage Overview_ អាចមើលឃើញឯកសារ និងទិន្នន័យមួយចំនួន _(👨 រូបភាព ,🎥 វីដេអូ ,📝 ឯកសារ និង 📰 ឯកសារផ្សេងទៀត)_
+- អាចឃើញ `Setting` និង `Tab` (កំណត់ទំព័រ និងផ្ទាំង)​ ដែលក្នុងនោះមានដូចជា _(Account , Change Password_ និង _Activity logs)_
+
+<hr/> 
+
+ចំពោះព័ត៌មាននៅក្នុង **Dashboard** :
+
+![Pic ](./pictures/Roles/ManageAccess/OpenAllPermissionInDashboardAndOnlyOneOnDashboardPageForUsers1.png)
+
+<hr/>
+
+ចំពោះព័ត៌មាននៅក្នុង **Dashboard** ចំណុច 🧮 **Storage Overview** :
+
+![Pic ](./pictures/Roles/ManageAccess/OpenAllPermissionInDashboardAndOnlyOneOnDashboardPageForUsers2.png)
+
+<hr/>
+
+ចំពោះព័ត៌មាននៅក្នុង **Setting** ⚙️ :
+
+![Pic ](./pictures/Roles/ManageAccess/OpenAllPermissionInDashboardAndOnlyOneOnDashboardPageForUsers3.png)
+:::
+
+##  ១០. ការកំណត់ក្នុង User Interface ត្រង់គេហទំព័រ Dashboard និង Cloud Storage
+::: tip វិធីសាស្ត្រយល់ដឹងពីការបើកត្រឹមតែ READ និង WRITE (ការអាន និង ការសរសេរ) ក្នុងគេហទំព័រ Dashboard រួមជាមួយនឹងបើក Favorite Folders តែមួយគត់ក្នុងគេហទំព័រ Cloud Storage និង បើក Read ក្នុង Activity Logs
+
+ព័ត៌មានសម្រាប់ Admin ត្រូវធ្វើ :
+- ផ្តល់ការ Click ✅ ក្នុង *User Actions* គ្រប់ចំណុច
+- ក្នុងគេហទំព័រ *Dashboard* ក៏ត្រូវធ្វើការបំពេញ Click ✅ នៅចំណុច *READ* និង *WRITE*
+- ស្ថិតក្នុងគេហទំព័័រ *Cloud Storage* ដោយធ្វើការ Click ✅ ត្រឹមតែ *FAVORITE* មួយគត់
+- ក្នុង *Settings* ធ្វើការ Click ✅ ចំណុច *READ*
+<hr/>
+
+![Pic ](./pictures/Roles/ManageAccess/WRITEANDREADForAdmin1.png)
+:::
