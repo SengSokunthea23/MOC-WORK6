@@ -299,8 +299,73 @@ Admin បានមកដល់ក្នុង Manage Access :
 - ផ្តល់ការ Click ✅ ក្នុង *User Actions* គ្រប់ចំណុច
 - ក្នុងគេហទំព័រ *Dashboard* ក៏ត្រូវធ្វើការបំពេញ Click ✅ នៅចំណុច *READ* និង *WRITE*
 - ស្ថិតក្នុងគេហទំព័័រ *Cloud Storage* ដោយធ្វើការ Click ✅ ត្រឹមតែ *FAVORITE* មួយគត់
-- ក្នុង *Settings* ធ្វើការ Click ✅ ចំណុច *READ*
+- ក្នុង *Settings* ត្រង់ *Activity Logs* ធ្វើការ Click ✅ ចំណុច *READ*
+
 <hr/>
 
 ![Pic ](./pictures/Roles/ManageAccess/WRITEANDREADForAdmin1.png)
+
+<hr/>
+
+![Pic ](./pictures/Roles/ManageAccess/WRITEANDREADForAdmin2.png)
+
+ព័ត៌មានសម្រាប់ User (អ្នកប្រើប្រាស់) ត្រូវដឹង :
+
+- អាចមើលឃើញទំព័រ `Dashboard` និង `Settings` ( *Dashboard | FTA Knowledge Center* ) 
+- អាចមើលឃើញផ្ទាំងចំនួន ៤ នៅក្នុងគេហទំព័រ `Dashboard` (ផ្ទាំងគ្រប់គ្រង) ( _🧮 Storage Overview_ , 📂 *Favorite Folders* , 🔗 *Quick Access* ,
+  📚 *Recent Files*)
+- ទិដ្ឋភាពទូទៅនៃការបង្ហាញចេញ _Storage Overview_ អាចមើលឃើញឯកសារ និងទិន្នន័យមួយចំនួន _(👨 រូបភាព ,🎥 វីដេអូ ,📝 ឯកសារ និង 📰 ឯកសារផ្សេងទៀត)_
+- អាចឃើញ `Setting` និង `Tab` (កំណត់ទំព័រ និងផ្ទាំង)​ ដែលក្នុងនោះមានដូចជា _(Account , Change Password_ និង _Activity logs)_
+- អាចមើលកម្រងព័ត៌មាន និងកែសម្រួលព័ត៌មាន (Profile & Edit Info)
+>នៅពេលដែលការផ្លាស់ប្តូរពាក្យសម្ងាត់ដោយជោគជ័យ នឹងធ្វើការប្តូរទិសទៅកាន់ទំព័រដើមវិញ
+
+<hr/>
+
+ចំពោះព័ត៌មាននៅក្នុង **Dashboard** :
+
+![Pic ](./pictures/Roles/ManageAccess/OpenAllPermissionInDashboardAndOnlyOneOnDashboardPageForUsers1.png)
+
+<hr/>
+
+ចំពោះព័ត៌មាននៅក្នុង **Dashboard** ចំណុច 🧮 **Storage Overview** :
+
+![Pic ](./pictures/Roles/ManageAccess/OpenAllPermissionInDashboardAndOnlyOneOnDashboardPageForUsers2.png)
+
+<hr/>
+
+ចំពោះព័ត៌មាននៅក្នុង **Setting** ⚙️ :
+
+![Pic ](./pictures/Roles/ManageAccess/OpenAllPermissionInDashboardAndOnlyOneOnDashboardPageForUsers3.png)
+
+<hr/>
+
+ចំពោះព័ត៌មាននៅក្នុង **Setting** ⚙️ ក្រោយពីផ្លាស់ប្តូរពាក្យសំងាត់រួចរាល់ :
+
+![Pic ](./pictures/Roles/ManageAccess/AfterChangePasswordInSetting1.png)
+
+<hr/>
+
+![Pic ](./pictures/Roles/ManageAccess/AfterChangePasswordInSetting2.png)
+
+:::
+##  ១១. ការកំណត់ក្នុង User Interface ត្រង់គេហទំព័រ Cloud Storage
+:::tip វិធីសាស្ត្រយល់ដឹងពីការបើកគ្រប់ចំណុចទាំងអស់ក្នុងគេហទំព័រ Cloud Storage
+ព័ត៌មានសម្រាប់ Admin ត្រូវធ្វើ :
+- ផ្តល់ការ Click ✅ ក្នុង *User Actions* គ្រប់ចំណុច
+- នៅក្នុង *User Interface* ផ្តល់ការ Click ✅ គ្រប់ចំណុចក្នុង *Cloud Storages*
+
+![Pic ](./pictures/Roles/ManageAccess/AfterChangePasswordInSetting3.png)
+
+<hr/>
+
+ព័ត៌មានសម្រាប់ User (អ្នកប្រើប្រាស់) ត្រូវដឹង :
+
+- អាចមើលឃើញរបារចំហៀង `File Management` និង `Files Shared`
+- អាចមើលឃើញទំព័រ `File Management` និង `Files Shared` ក្នុង ( *Dashboard | FTA Knowledge Center* )
+- មើលឃើញគ្រប់ឯកសារទាំងអស់ *(All Folders)* ក្នុងគេហទំព័រទាំងពីរផ្នែកខាងក្រៅ
+- ធ្វើការចុចទៅលើវាចំនួនពីរដង អ្នកប្រើប្រាស់អាចមើលឃើញគ្រប់ឯកសារទាំងអសនៅក្នុង *Folders* នីមួយៗ
+<hr/>
+
+ចំពោះព័ត៌មាននៅក្នុង **File Management** ⛅📁 :
+![Pic ](./pictures/Roles/ManageAccess/FilesManagementAndFilesShared2.png)
 :::
