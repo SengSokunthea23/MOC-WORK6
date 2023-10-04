@@ -172,7 +172,7 @@ Admin បានមកដល់ក្នុង Manage Access :
 
 - ខាងលើផ្នែកខាងស្តាំបានផ្លាស់ប្តូរឈ្មោះអ្នកប្រើប្រាស់ដែលបានកំណត់ទៅជា _Default_
 - ការប្រើប្រាស់បានក្លាយទៅជាទម្រង់នៃរូបភាពដើមវិញទាំងស្រុង
-- ធ្វើការបានតែលើ Info (ព័ត៌មាន) _Account_ &nbsp;និង _Change Password_ តែប៉ុណ្ណោះ
+- ធ្វើការបានតែលើ Info (ព័ត៌មាន) _Account_និង _Change Password_ តែប៉ុណ្ណោះ
 
 ![Pic ](./pictures/Roles/ManageAccess/click4onManageAccessInUserActionForUsersKnow.png)
 :::
@@ -362,10 +362,66 @@ Admin បានមកដល់ក្នុង Manage Access :
 
 - អាចមើលឃើញរបារចំហៀង `File Management` និង `Files Shared`
 - អាចមើលឃើញទំព័រ `File Management` និង `Files Shared` ក្នុង ( *Dashboard | FTA Knowledge Center* )
-- មើលឃើញគ្រប់ឯកសារទាំងអស់ *(All Folders)* ក្នុងគេហទំព័រទាំងពីរផ្នែកខាងក្រៅ
+- មើលឃើញគ្រប់ឯកសារទាំងអស់ *(All Folders)* ក្នុងគេហទំព័រទាំងពីរ
 - ធ្វើការចុចទៅលើវាចំនួនពីរដង អ្នកប្រើប្រាស់អាចមើលឃើញគ្រប់ឯកសារទាំងអសនៅក្នុង *Folders* នីមួយៗ
+- អាច : <br/>
+.សរសេរ *(Write)* <br/>
+.ផ្ទុកឯកសារ/ថតឯកសារ *(upload file/folder)* <br/>
+.បន្ថែមទៅ Favorite *(add to favorite)* <br/>
+.ចែករំលែក *(share)* ប្តូរឈ្មោះ *(rename)* <br/>
+.កែសម្រួលការពិពណ៌នា *(edit Description)* <br/>
+.ទាញយកឯកសារ *(download files)* <br/>
+.និងលុបចេញ *(remove)*
 <hr/>
 
 ចំពោះព័ត៌មាននៅក្នុង **File Management** ⛅📁 :
 ![Pic ](./pictures/Roles/ManageAccess/FilesManagementAndFilesShared2.png)
+
+<hr/>
+
+![Pic ](./pictures/Roles/ManageAccess/FilesManagementAndFilesShared1.png)
+
+<hr/>
+
+ចំពោះព័ត៌មាននៅក្នុង **File Share** ⛅💱 :
+![Pic ](./pictures/Roles/ManageAccess/FileShared1.png)
+>សម្រាប់ព័ត៌មានដែលមានឈ្មោះថាជា `Keywords` វាក៏ជា **​Folders** ផងដែរតែវាត្រូវបានដៃគូរម្ខាងទៀតជាអ្នកធ្វើការដាក់ឈ្មោះក្នុងទម្រង់បែបនេះ (*ជាឧទាហរណ៍៍វាមានលក្ខណ:ដូចគ្នាទៅនឹង Nickname ផងដែរ* )
+
+<hr/>
+:::
+
+## ១២. ការកំណត់ក្នុង User Interface ត្រង់គេហទំព័រ Cloud Storage
+::: tip វិធីសាស្ត្រយល់ដឹងពីការបើក Read (ការអាន) និង Write  (ការសរសេរ) ក្នុងគេហទំព័រ User Permission និងបើកគ្រប់ចំណុចទាំងអស់ក្នុង Cloud Storage ដែលស្ថិតក្នុងគេហទំព័រ User Interface
+
+ព័ត៌មានសម្រាប់ Admin ត្រូវធ្វើ :
+- ផ្តល់ការអនុញ្ញាតបើក ✅ ចំណុច *Read* និង *Write* ក្នុងគេហទំព័រ *User Permission*
+- នៅក្នុងគេហទំព័រ *User Interface* តម្រូវឲ្យធ្វើការអនុញ្ញាតបើក ✅ គ្រប់ចំណុចក្នុង *Cloud Storage*
+
+<hr/>
+
+![Pic ](./pictures/Roles/ManageAccess/FileSharedReadAndWrite1.png)
+
+<hr/>
+
+![Pic ](./pictures/Roles/ManageAccess/FileSharedReadAndWrite2.png)
+
+<hr/>
+
+ព័ត៌មានសម្រាប់ User (អ្នកប្រើប្រាស់) ត្រូវដឹង :
+- អាចមើលឃើញរបារចំហៀង `File Management` និង `Files Shared`
+- អាចមើលឃើញទំព័រ `File Management` និង `Files Shared` ក្នុង ( *Dashboard | FTA Knowledge Center* )
+- មើលឃើញគ្រប់ឯកសារទាំងអស់ *(All Folders)* ក្នុងគេហទំព័រទាំងពីរ
+- ធ្វើការចុចទៅលើវាចំនួនពីរដង អ្នកប្រើប្រាស់អាចមើលឃើញគ្រប់ឯកសារទាំងអសនៅក្នុង *Folders* នីមួយៗ
+
+ចំពោះព័ត៌មាននៅក្នុង **File Management** ⛅📁 :
+![Pic ](./pictures/Roles/ManageAccess/FilesManagementAndFilesShared2.png)
+
+<hr/>
+
+![Pic ](./pictures/Roles/ManageAccess/FilesManagementAndFilesShared1.png)
+
+<hr/>
+
+ចំពោះព័ត៌មាននៅក្នុង **File Share** ⛅💱 :
+![Pic ](./pictures/Roles/ManageAccess/FileShared1.png)
 :::
