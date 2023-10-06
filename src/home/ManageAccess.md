@@ -452,6 +452,7 @@ Admin បានមកដល់ក្នុង Manage Access :
 
 ព័ត៌មានសម្រាប់ User (អ្នកប្រើប្រាស់) ត្រូវដឹង :
 
-- មើលឃើញគេហទំព័រ _Storage Overview_ , _Quick Access_ និង _Recent Files_ ក្នុង `Dashboard`
-- Erorr
-- :::
+- មើលឃើញគេហទំព័រ _Storage Overview_ , _Quick Access_ និង _Recent Files_ នៅក្នុងគេហទំព័រធំ `Dashboard`
+- Erorr ក្នុង Quick Access
+- នៅក្នុងគេហទំព័រ *Recent Files* មិនអាចធ្វើការចុចដើម្បីមើលបានទេ!!
+:::
