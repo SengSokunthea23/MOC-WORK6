@@ -267,7 +267,6 @@ Admin បានមកដល់ក្នុង Manage Access :
 
 ព័ត៌មានសម្រាប់ User (អ្នកប្រើប្រាស់) ត្រូវដឹង :
 
-<<<<<<< HEAD
 - អាចមើលទំព័រ Dashboard ( Dashboard | FTA Knowledge Center )
 - អាចមើលឃើញផ្ទាំងចំនួន ៤ នៅក្នុងគេហទំព័រ `Dashboard` (ផ្ទាំងគ្រប់គ្រង) ( _🧮 Storage Overview_ , 📂 *Favorite Folders* , 🔗 *Quick Access* ,
   📚 *Recent Files*)
@@ -275,7 +274,7 @@ Admin បានមកដល់ក្នុង Manage Access :
 - អាចមើលឃើញទំព័រ `Dashboard` និង `Settings` ( _Dashboard | FTA Knowledge Center_ )
 - អាចមើលឃើញផ្ទាំងចំនួន ៤ នៅក្នុងគេហទំព័រ `Dashboard` (ផ្ទាំងគ្រប់គ្រង) ( _🧮 Storage Overview_ , 📂 _Favorite Folders_ , 🔗 _Quick Access_ ,
   📚 _Recent Files_)
->>>>>>> 37bb946f7a97e18c9a6418c7fb6d1b66198adc50
+
 - ទិដ្ឋភាពទូទៅនៃការបង្ហាញចេញ _Storage Overview_ អាចមើលឃើញឯកសារ និងទិន្នន័យមួយចំនួន _(👨 រូបភាព ,🎥 វីដេអូ ,📝 ឯកសារ និង 📰 ឯកសារផ្សេងទៀត)_
 - អាចឃើញ `Setting` និង `Tab` (កំណត់ទំព័រ និងផ្ទាំង)​ ដែលក្នុងនោះមានដូចជា _(Account , Change Password_ និង _Activity logs)_
 
@@ -303,7 +302,7 @@ Admin បានមកដល់ក្នុង Manage Access :
 ::: tip វិធីសាស្ត្រយល់ដឹងពីការបើកត្រឹមតែ READ និង WRITE (ការអាន និង ការសរសេរ) ក្នុងគេហទំព័រ Dashboard រួមជាមួយនឹងបើក Favorite Folders តែមួយគត់ក្នុងគេហទំព័រ Cloud Storage និង បើក Read ក្នុង Activity Logs
 
 ព័ត៌មានសម្រាប់ Admin ត្រូវធ្វើ :
-<<<<<<< HEAD
+
 - ផ្តល់ការ Click ✅ ក្នុង *User Actions* គ្រប់ចំណុច
 - ក្នុងគេហទំព័រ *Dashboard* ត្រូវធ្វើការបំពេញ Click ✅ នៅចំណុច *READ* និង *WRITE*
 - ស្ថិតក្នុងគេហទំព័័រ *Cloud Storage* ដោយធ្វើការ Click ✅ ត្រឹមតែ *FAVORITE* មួយគត់
@@ -315,7 +314,6 @@ Admin បានមកដល់ក្នុង Manage Access :
 - ស្ថិតក្នុងគេហទំព័័រ _Cloud Storage_ ដោយធ្វើការ Click ✅ ត្រឹមតែ _FAVORITE_ មួយគត់
 - ក្នុង _Settings_ ត្រង់ _Activity Logs_ ធ្វើការ Click ✅ ចំណុច _READ_
 
->>>>>>> 37bb946f7a97e18c9a6418c7fb6d1b66198adc50
 <hr/>
 
 ![Pic ](./pictures/Roles/ManageAccess/WRITEANDREADForAdmin1.png)
@@ -324,7 +322,6 @@ Admin បានមកដល់ក្នុង Manage Access :
 
 ![Pic ](./pictures/Roles/ManageAccess/WRITEANDREADForAdmin2.png)
 
-<<<<<<< HEAD
 <hr/>
 
 ![Pic ](./pictures/Roles/ManageAccess/WRITEANDREADForAdmin3.png)
@@ -378,13 +375,10 @@ Admin បានមកដល់ក្នុង Manage Access :
 - នៅក្នុង _User Interface_ ផ្តល់ការ Click ✅ គ្រប់ចំណុចក្នុង _Cloud Storages_
 
 ![Pic ](./pictures/Roles/ManageAccess/AfterChangePasswordInSetting3.png)
->>>>>>> 37bb946f7a97e18c9a6418c7fb6d1b66198adc50
 
 <hr/>
 
 ព័ត៌មានសម្រាប់ User (អ្នកប្រើប្រាស់) ត្រូវដឹង :
-
-<<<<<<< HEAD
 - អាចមើលទំព័រ Dashboard ( Dashboard | FTA Knowledge Center )
 - អាចមើលឃើញផ្ទាំងចំនួន ៤ នៅក្នុងគេហទំព័រ `Dashboard` (ផ្ទាំងគ្រប់គ្រង) ( _🧮 Storage Overview_ , 📂 *Favorite Folders* , 🔗 *Quick Access* ,
   📚 *Recent Files*)
@@ -483,5 +477,4 @@ Admin បានមកដល់ក្នុង Manage Access :
 - មើលឃើញគេហទំព័រ _Storage Overview_ , _Quick Access_ និង _Recent Files_ នៅក្នុងគេហទំព័រធំ `Dashboard`
 - Erorr ក្នុង Quick Access
 - នៅក្នុងគេហទំព័រ *Recent Files* មិនអាចធ្វើការចុចដើម្បីមើលបានទេ!!
->>>>>>> 37bb946f7a97e18c9a6418c7fb6d1b66198adc50
 :::
