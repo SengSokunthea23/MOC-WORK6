@@ -199,7 +199,7 @@ Admin បានមកដល់ក្នុង Manage Access :
 
 ព័ត៌មានសម្រាប់ User (អ្នកប្រើប្រាស់) ត្រូវដឹង :
 
-- អាចមើលឃើញផ្ទាំង Sidebar ដូចជា : `Dashboard` និង `Setting`
+- អាចមើលទំព័រ Dashboard ( Dashboard | FTA Knowledge Center )
 - អាចមើលឃើញផ្ទាំងបួននៅក្នុង Dashboard (ទំព័រផ្ទាំងគ្រប់គ្រង) <br/> 🧮 _Storage Overview_ , 📂<br/>_Favorite Folders_ , 🔗<br/>_Quick Access_ <br/>
   និង 📚*Recent Files*
 - ទិដ្ឋភាពទូទៅនៃការបង្ហាញចេញ _Storage Overview_ អាចមើលឃើញឯកសារ និងទិន្នន័យមួយចំនួន _(👨 រូបភាព ,🎥 វីដេអូ ,📝 ឯកសារ និង 📰 ឯកសារផ្សេងទៀត)_
@@ -267,7 +267,7 @@ Admin បានមកដល់ក្នុង Manage Access :
 
 ព័ត៌មានសម្រាប់ User (អ្នកប្រើប្រាស់) ត្រូវដឹង :
 
-- អាចមើលឃើញទំព័រ `Dashboard` និង `Settings` ( *Dashboard | FTA Knowledge Center* ) 
+- អាចមើលទំព័រ Dashboard ( Dashboard | FTA Knowledge Center )
 - អាចមើលឃើញផ្ទាំងចំនួន ៤ នៅក្នុងគេហទំព័រ `Dashboard` (ផ្ទាំងគ្រប់គ្រង) ( _🧮 Storage Overview_ , 📂 *Favorite Folders* , 🔗 *Quick Access* ,
   📚 *Recent Files*)
 - ទិដ្ឋភាពទូទៅនៃការបង្ហាញចេញ _Storage Overview_ អាចមើលឃើញឯកសារ និងទិន្នន័យមួយចំនួន _(👨 រូបភាព ,🎥 វីដេអូ ,📝 ឯកសារ និង 📰 ឯកសារផ្សេងទៀត)_
@@ -297,10 +297,30 @@ Admin បានមកដល់ក្នុង Manage Access :
 
 ព័ត៌មានសម្រាប់ Admin ត្រូវធ្វើ :
 - ផ្តល់ការ Click ✅ ក្នុង *User Actions* គ្រប់ចំណុច
-- ក្នុងគេហទំព័រ *Dashboard* ក៏ត្រូវធ្វើការបំពេញ Click ✅ នៅចំណុច *READ* និង *WRITE*
+- ក្នុងគេហទំព័រ *Dashboard* ត្រូវធ្វើការបំពេញ Click ✅ នៅចំណុច *READ* និង *WRITE*
 - ស្ថិតក្នុងគេហទំព័័រ *Cloud Storage* ដោយធ្វើការ Click ✅ ត្រឹមតែ *FAVORITE* មួយគត់
 - ក្នុង *Settings* ធ្វើការ Click ✅ ចំណុច *READ*
 <hr/>
 
 ![Pic ](./pictures/Roles/ManageAccess/WRITEANDREADForAdmin1.png)
+
+<hr/>
+
+![Pic ](./pictures/Roles/ManageAccess/WRITEANDREADForAdmin2.png)
+
+<hr/>
+
+![Pic ](./pictures/Roles/ManageAccess/WRITEANDREADForAdmin3.png)
+
+<hr/>
+
+ព័ត៌មានសម្រាប់ User (អ្នកប្រើប្រាស់) ត្រូវដឹង :
+
+- អាចមើលទំព័រ Dashboard ( Dashboard | FTA Knowledge Center )
+- អាចមើលឃើញផ្ទាំងចំនួន ៤ នៅក្នុងគេហទំព័រ `Dashboard` (ផ្ទាំងគ្រប់គ្រង) ( _🧮 Storage Overview_ , 📂 *Favorite Folders* , 🔗 *Quick Access* ,
+  📚 *Recent Files*)
+- ទិដ្ឋភាពទូទៅនៃការបង្ហាញចេញ _Storage Overview_ អាចមើលឃើញឯកសារ និងទិន្នន័យមួយចំនួន _(👨 រូបភាព ,🎥 វីដេអូ ,📝 ឯកសារ និង 📰 ឯកសារផ្សេងទៀត)_
+- អាចមើលពី `Setting` និង `Tab` (កំណត់ទំព័រ និងផ្ទាំង)​ ដែលក្នុងនោះមានដូចជា _(Account , Change Password_ និង _Activity logs)_
+- អាចធ្វើការមើលកម្រងផ្លាស់ប្តូរ រូបភាពនៃ Profile និង ការប្រែនៃព័ត៌មាន
+- អាចផ្លាស់ប្តូរ _Password_ (លេខសម្ងាត់) ហើយនៅពេលដែលការផ្លាស់ប្តូរដោយជោគជ័យលោកអ្នកនឹង ប្តូរទិសទៅកាន់ទំព័រចូល ឬ គេហទំព័រដើមដំបូងវិញ
 :::
