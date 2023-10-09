@@ -466,15 +466,41 @@ Admin បានមកដល់ក្នុង Manage Access :
 ព័ត៌មានសម្រាប់ Admin ត្រូវធ្វើ :
 
 - ផ្តល់ការ Click ✅ ក្នុង _User Permission_ គ្រប់ចំណុច
-- នៅក្នុង _User Interface_ ផ្តល់ការ Click ✅ គ្រប់ទីតាំងលើកលែងតែក្នុងគេហទំព័រ _Cloud Storages_ តែមួយគត់
+- នៅក្នុង _User Interface_ ផ្តល់ការ Click ✅ គ្រប់ទីតាំងលើកលែងតែក្នុងគេហទំព័រ _Cloud Storages_ តែមួយគត់ ❌
 
 ![Pic ](./pictures/Roles/ManageAccess/while-restricting-the-ability-to-perform-all-actions-in-the-interface-of-cloud-storages..png)
 
  <hr/>
 
 ព័ត៌មានសម្រាប់ User (អ្នកប្រើប្រាស់) ត្រូវដឹង :
+### ព័ត៌មានក្នុង Dashboard
 
 - មើលឃើញគេហទំព័រ _Storage Overview_ , _Quick Access_ និង _Recent Files_ នៅក្នុងគេហទំព័រធំ `Dashboard`
+
+![Pic ](./pictures/Roles/ManageAccess/DashboardFilesManagementFilesShared/DashboardFilesManagementFilesShared0.png)
+#### * ចំពោះព័ត៌មាន Storage Overview
+
+- ក្នុង 📰 *Storage Overview* អាចមើលបាននូវ ផ្នែកតូចៗដែលមានដូចជា : <br/>
+  Images , Videos , Documents , Other Files
 - Erorr ក្នុង Quick Access
-- នៅក្នុងគេហទំព័រ *Recent Files* មិនអាចធ្វើការចុចដើម្បីមើលបានទេ!!
+
+![Pic ](./pictures/Roles/ManageAccess/DashboardFilesManagementFilesShared/DashboardFilesManagementFilesShared1.png)
+
+<hr/>
+
+ #### * ចំពោះព័ត៌មាន Quick Access
+
+ - សម្រាប់ *Quick Access* ទទួលបាននូវព័ត៌មានដែលជា **File Menement** 
+ - Erorr
+
+ ![Pic ](./pictures/Roles/ManageAccess/DashboardFilesManagementFilesShared/DashboardFilesManagementFilesShared2.png)
+
+ <hr/>
+
+ #### * ចំពោះព័ត៌មាន Recent Files
+
+- មិនអាចធ្វើការចូលមើលបានក្នុង : `PDF` , `រូបភាព` និង `File` បាននោះទេ
+- អាចមើលឃើញពី ឈ្មោះ (NAME) , ទំហំនៃទិន្នន័យ (SIZE) នីមួយៗដែលមាន , ស្រង់ពេលវេលាក្នុងការកែប្រែទិន្នន័យ (MODIFIED) , រូបភាពរបស់អ្នកប្រើប្រាស់នីមួយៗ (OWNER)
+
+![Pic ](./pictures/Roles/ManageAccess/DashboardFilesManagementFilesShared/DashboardFilesManagementFilesShared3.png)
 :::
