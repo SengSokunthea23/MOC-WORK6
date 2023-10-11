@@ -499,8 +499,36 @@ Admin បានមកដល់ក្នុង Manage Access :
 
  #### * ចំពោះព័ត៌មាន Recent Files
 
-- មិនអាចធ្វើការចូលមើលបានក្នុង : `PDF` , `រូបភាព` និង `File` បាននោះទេ
-- អាចមើលឃើញពី ឈ្មោះ (NAME) , ទំហំនៃទិន្នន័យ (SIZE) នីមួយៗដែលមាន , ស្រង់ពេលវេលាក្នុងការកែប្រែទិន្នន័យ (MODIFIED) , រូបភាពរបស់អ្នកប្រើប្រាស់នីមួយៗ (OWNER)
+- មិនអាចធ្វើមើលព័ត៌មានក្នុង : `PDF` , `រូបភាព` និង `File`
+- អាចមើលឃើញពី ឈ្មោះ (NAME) , ទំហំនៃទិន្នន័យ (SIZE) , ពេលវេលាក្នុងការកែប្រែទិន្នន័យ (MODIFIED) , រូបភាពរបស់អ្នកប្រើប្រាស់នីមួយៗ (OWNER)
 
 ![Pic ](./pictures/Roles/ManageAccess/DashboardFilesManagementFilesShared/DashboardFilesManagementFilesShared3.png)
+
+<hr/>
+
+### ព័ត៌មានក្នុង Recovery
+
+- (1) : មើលឃើញរាល់​ `PDF` , `រូបភាព` និង `File` របស់អ្នកប្រើប្រាស់
+- (2) : អាចធ្វើការ *(Search)* ស្វែងរកនូវទិន្នន័យដែលមានក្នុង *Recovery*
+- (3) : រាល់ទិន្នន័យទាំងអស់អ្នកប្រើប្រាស់អាចធ្វើការលុបចោលទាំងអស់ដោយចុចលើ *Remove All*
+- (4) : បង្ហាញនូវចំនួនសរុបនៃទិន្នន័យទាំងអស់ដែលមានក្នុង *Recovery*
+- (5) : ចុចដើម្បីបន្តទៅទិន្នន័យដែលមាន (ករណីមានទិន្នន័យច្រើន)
+- (6) : -------
+- (7) : **Delete** លុបនូវទិន្នន័យនេះ
+
+![Pic ](./pictures/Roles/ManageAccess/DashboardFilesManagementFilesShared/DashboardFilesManagementFilesShared4.png)
+
+<hr/>
+
+### ព័ត៌មានក្នុង Settings
+
+- ទទួលបាននូវគេហទំព័រ *Accont* , *Change Password* , *Roles* , *Users* និង *Activity Logs*
+
+![Pic ](./pictures/Roles/ManageAccess/DashboardFilesManagementFilesShared/DashboardFilesManagementFilesShared5.png)
+
+<hr/>
+
+#### * ចំពោះព័ត៌មាន Account
+
+- (1) : 
 :::
