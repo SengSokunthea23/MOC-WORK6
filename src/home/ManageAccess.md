@@ -530,5 +530,86 @@ Admin បានមកដល់ក្នុង Manage Access :
 
 #### * ចំពោះព័ត៌មាន Account
 
-- (1) : 
+- (1) : ដាក់នូវរូបភាពដើម្បីសម្គាល់ព័ត៌មានផ្ទាល់ខ្លួន
+- (2) : លុបបំបាត់នូវរូបភាព
+- (3) : បំពេញគ្រប់លក្ខណ:ទាំងអស់ដែលមាន
+- (4) : រក្សាទុកនូវព័ត៌មានដែលបានបំពេញខាងលើ
+
+![Pic ](./pictures/Roles/ManageAccess/DashboardFilesManagementFilesShared/DashboardFilesManagementFilesShared6.png)
+
+<hr/>
+:::
+
+## ១៤. ការកំណត់ក្នុង User Interface ត្រង់គេហទំព័រ Cloud Storage មិនផ្តល់តែចំណុច Read
+::: tip វិធីសាស្ត្រយល់ដឹងក្រោយពីមិនបានចុច ✅ លើចំណុច Read តែមួយប៉ុណ្ណោះ ក្នុងគេហទំព័រ Cloud Storages ❌
+ព័ត៌មានសម្រាប់ Admin ត្រូវធ្វើ :
+- ផ្តល់ការ Click ✅ ក្នុង User Permission គ្រប់ចំណុច
+- នៅក្នុង User Interface ផ្តល់ការ Click ✅ គ្រប់ទីតាំងលើកលែងតែ Read ដែលមានក្នុងគេហទំព័រ Cloud Storages តែមួយគត់ ❌
+
+![Pic ](./pictures/Roles/ManageAccess/ClickAllPermissionWithoutReadInCloudStorage1/ClickAllPermissionWithoutReadInCloudStorage1.png)
+
+<hr/>
+
+ព័ត៌មានសម្រាប់ User (អ្នកប្រើប្រាស់) ត្រូវដឹង :
+- Dashboard : ទទួលបាន Storage Overview , Favorite Folders , Quick Access , Recent Files
+- Recovery : 
+- Settings : 
+
+![Pic ](./pictures/Roles/ManageAccess/ClickAllPermissionWithoutReadInCloudStorage1/ClickAllPermissionWithoutReadInCloudStorage3.png)
+
+<hr/>
+:::
+
+## ១៥. ការកំណត់តែ Read ក្នុង Users 
+::: tip វិធីសាស្ត្រយល់ដឹងក្រោយពីធ្វើការចុច Click ✅ ត្រឹមតែ Read មួយគត់ដែលមានក្នុង Users 
+ព័ត៌មានសម្រាប់ Admin ត្រូវធ្វើ :
+
+### Manage Access
+- User Actions : ផ្តល់ត្រឹម *Read* ដល់អ្នកប្រើប្រាស់ ។
+- User Interface : ផ្តល់ត្រឹម *Read* ក្នុងចំណុច **Users** ដល់អ្នកប្រើប្រាស់ ។
+
+![Pic ](./pictures/Roles/ManageAccess/Users/Users1.png)
+
+<hr/>
+
+![Pic ](./pictures/Roles/ManageAccess/Users/Users2.png)
+
+ព័ត៌មានសម្រាប់ User (អ្នកប្រើប្រាស់) ត្រូវដឹង :
+- Setting : ទទួលបាន *Account* , *Change Password* , *Users*
+>ព័ត៌មានមានលក្ខណ:និងទម្រង់ដូចដើមដំបូងទាំងស្រុង ។
+
+![Pic ](./pictures/Roles/ManageAccess/Users/Users3.png)
+:::
+
+## ១៦. ការកំណត់ក្នុង Users ទាំងអស់ និង ក្នុង Cloud Storage ទាំងអស់
+::: tip វិធីសាស្ត្រយល់ដឹងក្រោយពីធ្វើការចុច Click ✅ គ្រប់ចំណុចទាំងអស់ក្នុងគេហទំព័រ Cloud Storage និង គ្រប់ចំណុចក្នុងគេហ័ទំព័រ Users 
+ព័ត៌មានសម្រាប់ Admin ត្រូវធ្វើ :
+
+### Manage Access
+
+- ផ្តល់ការអនុញ្ញាតគ្រប់ផ្នែកក្នុងគេហទំព័រ *User Action*
+- គ្រប់ចំណុចក្នុង **Cloud Storage** និង **Users** ត្រូវធ្វើការបំពេញទាំងអស់
+- ក្រៅពីនោះមិនអនុញ្ញាតឲ្យធ្វើការបំពេញនោះទេ
+
+![Pic ](./pictures/Roles/ManageAccess/Users/Users6.png)
+![Pic ](./pictures/Roles/ManageAccess/Users/Users4.png)
+![Pic ](./pictures/Roles/ManageAccess/Users/Users5.png)
+
+<hr/>
+
+ព័ត៌មានសម្រាប់ User (អ្នកប្រើប្រាស់) ត្រូវដឹង :
+
+- Files Management : អាចធ្វើការ `add` គ្រប់លក្ខខណ្ឌក្នុង **New** ។ គ្រប់ព័ត៌មានក្នុង *ACTIONS* ដំណើរការជាធម្មតា
+- Files Shared :
+- Settings :
+
+![Pic ](./pictures/Roles/ManageAccess/Users/Users7.png)
+
+<hr/>
+
+:::
+
+## ១៧. ការកំណត់ User Action និង Users
+::: tip វិធីសាស្ត្រយល់ដឹងក្រោយផ្តល់ត្រឹមតែ Read ក្នុង User Actions និង គ្រប់ចំណុចទាំងអស់ក្នុង Users ដែលមានក្នុង​ User Interface
+ព័ត៌មានសម្រាប់ Admin ត្រូវធ្វើ :
 :::
