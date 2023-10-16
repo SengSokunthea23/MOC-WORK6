@@ -530,5 +530,32 @@ Admin បានមកដល់ក្នុង Manage Access :
 
 #### * ចំពោះព័ត៌មាន Account
 
-- (1) : 
+- (1) : ធ្វើការបំពេញគ្រប់ព័ត៌មានដែលមានក្នុងគេហទំព័រនៃ *Account* ទាំងមូល
+- (2) : អាចផ្លាស់ប្តូរនូវរូបភាព *(Profile)* 
+- (3) : ធ្វើការលុបចោលនូវរូបភាព *(Profile)* ដោយចុច *Remove*
+- (4) : ចុច *Save* ដើម្បីទទួលយកនូវការផ្លាស់ប្តូរថ្មី
+
+![Pic ](./pictures/Roles/ManageAccess/DashboardFilesManagementFilesShared/DashboardFilesManagementFilesShared6.png)
+
+<hr/>
+
+#### * ចំពោះព័ត៌មាន Change Password
+
+- (1) : ដាក់នូវ ពាក្យសំងាត់ *(Current Password)* បច្ចុប្បន្ន
+- (2) : ដាក់ពាក្យសម្ងាត់ថ្មី *(New Password)* ដែលចង់ផ្លាស់ប្តូរ
+- (3) : ​បញ្ជាក់ពាក្យសម្ងាត់ថ្មី *(Confirm Password)* ដែលចង់ផ្លាស់ប្តូរ
+- (4) : ចុច *Save* ដើម្បីទទួលយកនូវការផ្លាស់ប្តូរថ្មី
+
+![Pic ](./pictures/Roles/ManageAccess/DashboardFilesManagementFilesShared/DashboardFilesManagementFilesShared7.png)
+
+<hr/>
+
+#### * ចំពោះព័ត៌មាន Roles
+
+- (1) : បង្កើតនូវតួនាទីថ្មី (Create Role)
+- (2) : ផ្លាស់ប្តូរនូវតួនាទីរបស់អ្នកប្រើប្រាស់ (Edit)
+- (3) : គោលជំហរក្នុងការគ្រប់គ្រងតួនាទី (Manage Access) ក្នុង (User Interface) និង (User Permission)
+- (4) : ចុចដើម្បីបន្តទៅទិន្នន័យដែលមាន (ករណីមានទិន្នន័យច្រើន)
+
+![Pic ](./pictures/Roles/ManageAccess/DashboardFilesManagementFilesShared/DashboardFilesManagementFilesShared8.png)
 :::
