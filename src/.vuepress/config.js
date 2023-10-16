@@ -64,6 +64,34 @@ module.exports = {
           ]
         },
         {
+          title: 'ផ្ទាំងគ្រប់គ្រង (Dashboard)',
+          collapsable: false,
+          children: [
+            //
+          ]
+        },
+        {
+          title: 'ឯកសារគ្រប់គ្រង (Files Management)',
+          collapsable: false,
+          children: [
+            //
+          ]
+        },
+        {
+          title: 'ឯកសារចែករំលែក (Files Shared)',
+          collapsable: false,
+          children: [
+            //
+          ]
+        },
+        {
+          title: 'ការទាញឡើងមកវិញ (Recovery)',
+          collapsable: false,
+          children: [
+            //
+          ]
+        },
+        {
           title: 'ការកំណត់ (Settings)',
           collapsable: false,
           children: [
