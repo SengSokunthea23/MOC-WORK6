@@ -635,7 +635,41 @@ Admin បានមកដល់ក្នុង Manage Access :
 
 :::
 
-## ១៧. ការកំណត់ User Action និង Users
-::: tip វិធីសាស្ត្រយល់ដឹងក្រោយផ្តល់ត្រឹមតែ Read ក្នុង User Actions និង គ្រប់ចំណុចទាំងអស់ក្នុង Users ដែលមានក្នុង​ User Interface
-ព័ត៌មានសម្រាប់ Admin ត្រូវធ្វើ :
+## ១៧. ការ Click ✅ ទៅលើ Users ក្នុង User Interface
+::: tip វិធីសាស្ត្រយល់ដឹងក្រោយផ្តល់ត្រឹមតែ Read ទៅលើ User Actions និង គ្រប់ចំណុចទាំងអស់ទៅលើ Users ដែលមានក្នុង​ User Interface
+
+ប្រសិនបើអ្នកត្រូវការកំណត់បែបនេះ វានឹងបង្ហាញពីភាពដើមនៃការបង្ហាញចេញ ដោយបង្ហាញត្រឹមតែ Setting ។ ហើយចំពោះព័ត៌មានដែលបង្ហាញបន្ថែមក្នុងនោះមានត្រឹមតែ **Account** , **Change Password** និង  **Users** តែប៉ុណ្ណោះ ។ 
+
+ព័ត៌មានសម្រាប់ Admin ត្រូវធ្វើ : 
+- ផ្តល់ការ click ✅ ទៅលើ *Users* ក្នុង **User Interface** ទាំងអស់
+
+![Pic ](./pictures/Roles/ManageAccess/Users/Users9.png)
+![Pic ](./pictures/Roles/ManageAccess/Users/Users8.png)
+
+<hr/>
+
+ព័ត៌មានសម្រាប់ User (អ្នកប្រើប្រាស់) ត្រូវដឹង :
+- Settings : ទទួលបាន *Account* , *Change Password* , *Users*
+
+>ចំពោះគ្រប់ចំណុចដែលមានក្នុង **Action** អ្នកប្រើប្រាស់ដំណើរការបានគ្រប់ចំណុចទាំងអស់
+
+![Pic ](./pictures/Roles/ManageAccess/Users/Users10.png)
+:::
+## ១៨. ការ Click ✅ ទៅលើ Recovery ក្នុង User Interface
+::: tip វិធីសាស្ត្រយល់ដឹងក្រោយផ្តល់គ្រប់ចំណុចទាំងអស់ទៅលើ User Actions និង គ្រប់ចំណុចទាំងអស់ទៅលើ Recovery ដែលមានក្នុង​ User Interface
+
+ព័ត៌មានសម្រាប់ Admin ត្រូវធ្វើ : 
+- ចុចបើក **User Actions** ទាំងអស់
+- ចុចបើក **Recovery** ទាំងអស់ នៅក្នុង *User Interface*
+
+![Pic ](./pictures/Roles/ManageAccess/Recovery/Recovery1.png)
+![Pic ](./pictures/Roles/ManageAccess/Recovery/Recovery2.png)
+
+<hr/>
+
+ព័ត៌មានសម្រាប់ User (អ្នកប្រើប្រាស់) ត្រូវដឹង :
+- Recovery : 
+- Settings :
+
+![Pic ](./pictures/Roles/ManageAccess/Recovery/Recovery3.png)
 :::
