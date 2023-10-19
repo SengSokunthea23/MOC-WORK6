@@ -667,9 +667,78 @@ Admin បានមកដល់ក្នុង Manage Access :
 
 <hr/>
 
-ព័ត៌មានសម្រាប់ User (អ្នកប្រើប្រាស់) ត្រូវដឹង :
-- Recovery : 
-- Settings :
+ព័ត៌មានសម្រាប់ User (អ្នកប្រើប្រាស់) ត្រូវដឹង : <br/>
+#### អ្នកប្រើប្រាស់ទទួលបានព័ត៌មានចំនួន ២ គឺ :
+- Recovery : មានបង្ហាញជាឈ្មោះទិន្នន័យ , ទំហំនៃទិន្នន័យនីមួយៗ , ចំណុចបរិច្ឆេទនៃការកែប្រែ , ការលុបរាល់ទិន្នន័យ ។
+- Settings : ទទួលបាន *Account* និង *Change Password*
 
 ![Pic ](./pictures/Roles/ManageAccess/Recovery/Recovery3.png)
+:::
+## ១៩. ការ Click ✅ ទៅលើ Recovery ក្នុង User Interface តែមានបញ្ហា
+::: tip វិធីសាស្ត្រយល់ដឹងក្រោយផ្តល់គ្រប់ចំណុចទាំងអស់ទៅលើ Recovery ដែលមានក្នុង​ User Interface តែមិនអនុញ្ញាតតែ Read មួយក្នុង User Permission
+ព័ត៌មានសម្រាប់ Admin ត្រូវធ្វើ : 
+- ចុចបើក **Read** ក្នុង *User Permission*
+- ចុចបើក **Recovery** ទាំងអស់ នៅក្នុង *User Interface*
+
+![Pic ](./pictures/Roles/ManageAccess/Recovery/Recovery4.png)
+![Pic ](./pictures/Roles/ManageAccess/Recovery/Recovery5.png)
+
+ព័ត៌មានសម្រាប់ User (អ្នកប្រើប្រាស់) ត្រូវដឹង : <br/>
+#### អ្នកប្រើប្រាស់ទទួលបានព័ត៌មានចំនួន ២ គឺ :
+- Recovery : ពុំមានព័ត៌មានណាមួយត្រូវបានបង្ហាញទេ ❌
+- Settings : ទទួលបាន *Account* និង *Change Password*
+:::
+## ២០. ការបើក READ និង WRITE ទៅលើ Recovery ក្នុង User Interface
+::: tip វិធីសាស្ត្រយល់ដឹងក្រោយផ្តល់គ្រប់ចំណុចទាំងអស់ទៅលើ Recovery ដែលមានក្នុង​ User Interface ដោយអនុញ្ញាតតែ READ និង WRITE មួយក្នុង User Permission
+ប្រសិនបើអ្នកត្រូវការកំណត់បែបនេះ វានឹងបិទចំណុចក្នុង `ACTIONS` ដែលមានដូចជា **Recovery** និង **Delete**
+>នេះសម្រាប់តែទិន្នន័យជា Zip , rar , PDF , png , jpeg តែប៉ុណ្ណោះ ។ *Folders* មានចំណុច `ACTIONS` ជាធម្មតាតែប៉ុណ្ណោះ ។
+
+ព័ត៌មានសម្រាប់ Admin ត្រូវធ្វើ : 
+- ចុចបើក *User Actions* ទាំងអស់
+- ចុចបើក **READ** និង **WRITE** នៅក្នុង **Recovery** ហើយក្នុង *User Interface*
+
+![Pic ](./pictures/Roles/ManageAccess/Recovery/Recovery6.png)
+![Pic ](./pictures/Roles/ManageAccess/Recovery/Recovery7.png)
+
+ព័ត៌មានសម្រាប់ User (អ្នកប្រើប្រាស់) ត្រូវដឹង : 
+#### អ្នកប្រើប្រាស់ទទួលបានព័ត៌មានចំនួន ២ គឺ :
+- Recovery : ពុំមានព័ត៌មានណាមួយត្រូវបានបង្ហាញទេ ❌ នៅក្នុងចំណុច **ACTIONS** ។ ចំពោះ Folders មានបង្ហាញជាធម្មតា ។
+- Settings : ទទួលបាន *Account* និង *Change Password*
+
+![Pic ](./pictures/Roles/ManageAccess/Recovery/Recovery8.png)
+:::
+## ២១. ការបើក READ , WRITE និង MODIFY ទៅលើ Recovery ក្នុង User Interface
+::: tip វិធីសាស្ត្រយល់ដឹងក្រោយផ្តល់គ្រប់ចំណុចទាំងអស់ទៅលើ Recovery ដែលមានក្នុង​ User Interface ដោយអនុញ្ញាតតែ READ , WRITE និង MODIFY ក្នុង User Permission
+ព័ត៌មានសម្រាប់ Admin ត្រូវធ្វើ : 
+- ចុចបើក *User Actions* ទាំងអស់
+- ចុចបើក **READ** , **WRITE** និង **MODIFY** នៅក្នុង **Recovery** ហើយក្នុង *User Interface*
+
+![Pic ](./pictures/Roles/ManageAccess/Recovery/Recovery6.png)
+![Pic ](./pictures/Roles/ManageAccess/Recovery/Recovery9.png)
+
+ព័ត៌មានសម្រាប់ User (អ្នកប្រើប្រាស់) ត្រូវដឹង : 
+#### អ្នកប្រើប្រាស់ទទួលបានព័ត៌មានចំនួន ២ គឺ :
+- Recovery : ពុំមានព័ត៌មានណាមួយត្រូវបានបង្ហាញទេ ❌ នៅក្នុងចំណុច **ACTIONS** ។ ចំពោះ Folders មានបង្ហាញជាធម្មតា ។
+- Settings : ទទួលបាន *Account* និង *Change Password*
+
+![Pic ](./pictures/Roles/ManageAccess/Recovery/Recovery8.png)
+:::
+## ២២. ការបើក READ , WRITE , MODIFY និង REMOVE ទៅលើ Recovery ក្នុង User Interface
+::: tip វិធីសាស្ត្រយល់ដឹងក្រោយផ្តល់គ្រប់ចំណុចទាំងអស់ទៅលើ Recovery ដែលមានក្នុង​ User Interface ដោយអនុញ្ញាតតែ READ , WRITE , MODIFY និង REMOVE ក្នុង User Permission
+ព័ត៌មានសម្រាប់ Admin ត្រូវធ្វើ : 
+- ចុចបើក *User Actions* ទាំងអស់
+- ចុចបើក **READ** , **WRITE** , **MODIFY** និង **REMOVE**នៅក្នុង **Recovery** ហើយក្នុង *User Interface*
+
+![Pic ](./pictures/Roles/ManageAccess/Recovery/Recovery6.png)
+![Pic ](./pictures/Roles/ManageAccess/Recovery/Recovery10.png)
+
+ព័ត៌មានសម្រាប់ User (អ្នកប្រើប្រាស់) ត្រូវដឹង : 
+#### អ្នកប្រើប្រាស់ទទួលបានព័ត៌មានចំនួន ២ គឺ :
+- Recovery : គ្រប់ព័ត៌មាននឹងមានបង្ហាញជាធម្មតា 
+- Settings : ទទួលបាន *Account* និង *Change Password*
+
+![Pic ](./pictures/Roles/ManageAccess/Recovery/Recovery11.png)
+:::
+## ២៣. ការបើកគ្រប់ចំណុចដែលមានក្នុង SETTINGS ទាំងអស់ និង ក្នុង User Permission ទាំងអស់
+::: tip វិធីសាស្ត្រយល់ដឹងក្រោយផ្តល់គ្រប់ចំណុចទាំងអស់ទៅលើ Settings ដែលមានក្នុង​ User Interface ដោយអនុញ្ញាតគ្រប់ចំណុចក្នុង User Permission
 :::
