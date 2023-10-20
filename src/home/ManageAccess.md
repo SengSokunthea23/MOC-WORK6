@@ -776,7 +776,7 @@ Admin បានមកដល់ក្នុង Manage Access :
 - គ្រប់ចំណុចដែលមានក្នុង *User Interface* បិទដូចគ្នា
 
 ![Pic ](./pictures/Roles/ManageAccess/Settings/setting7.png)
-![Pic ](./pictures/Roles/ManageAccess/Settings/setting8.png)
+![Pic ](./pictures/Roles/ManageAccess/Settings/setting5.png)
 
 ព័ត៌មានសម្រាប់ User (អ្នកប្រើប្រាស់) ត្រូវដឹង : 
 #### អ្នកប្រើប្រាស់ទទួលបានព័ត៌មានចំនួន ១ គឺ :
@@ -785,18 +785,53 @@ Admin បានមកដល់ក្នុង Manage Access :
 
 ![Pic ](./pictures/Roles/ManageAccess/Settings/setting6.png)
 :::
-## ២៦. ការបើកគ្រប់ចំណុចដែលមានក្នុង Roles ស្ថិតក្នុង Settings ក្នុង User Interface ទាំងអស់
+## ២៦. ការបើកគ្រប់ចំណុចដែលមានក្នុង Roles ស្ថិតក្នុង Settings នៅ User Interface ទាំងអស់
 ::: tip វិធីសាស្ត្រយល់ដឹងក្រោយបើកគ្រប់ចំណុចដែលមានក្នុង Roles ស្ថិតក្នុង Settings ក្នុង User Interface និងគ្រប់ចំណុចក្នុង User Permission
 ព័ត៌មានសម្រាប់ Admin ត្រូវធ្វើ : 
 - ចុចបើក *User Actions* ទាំងអស់
 - ចុចបើក គ្រប់ចំណុចដែលមានក្នុង **Roles** ដែលមានក្នុង *User Interface*
 
-![Pic ](./pictures/Roles/ManageAccess/Settings/setting9.png)
-![Pic ](./pictures/Roles/ManageAccess/Settings/setting10.png)
+![Pic ](./pictures/Roles/ManageAccess/Settings/setting2.png)
+![Pic ](./pictures/Roles/ManageAccess/Settings/setting3.png)
 
 ព័ត៌មានសម្រាប់ User (អ្នកប្រើប្រាស់) ត្រូវដឹង : 
 #### អ្នកប្រើប្រាស់ទទួលបានព័ត៌មានចំនួន ១ គឺ :
 - Setting : ទទួលបានផ្ទាំង *Account* , *Change Password* និង *Roles*
 
 ![Pic ](./pictures/Roles/ManageAccess/Settings/setting11.png)
+:::
+
+## ២៧. ការបើកត្រឹមតែចំណុច Read ដែលមានក្នុង Roles ស្ថិតក្នុង Settings នៅ User Interface
+::: tip វិធីសាស្ត្រយល់ដឹងក្រោយបើកត្រឹមតែចំណុច Read ដែលមានក្នុង Roles ស្ថិតក្នុង Settings នៅ User Interface និងគ្រប់ចំណុចក្នុង User Permission
+ការបើកដំណើរការនេះ បានធ្វើឲ្យអ្នកប្រើប្រាស់មិនអាចធ្វើការប្រតិបត្តិលើ ឬ គ្រប់គ្រង (STATUS) ដែលមានក្នុង (ROLES) បានទេ ។
+
+ព័ត៌មានសម្រាប់ Admin ត្រូវធ្វើ : 
+- ចុចបើក *User Actions* ទាំងអស់
+- ចុចបើក **Read** ដែលមានក្នុង *Roles* ស្ថិតក្នុង *Settings* ហើយក្នុង *User Interface*
+
+![Pic ](./pictures/Roles/ManageAccess/Settings/setting2.png)
+![Pic ](./pictures/Roles/ManageAccess/Settings/setting12.png)
+
+ព័ត៌មានសម្រាប់ User (អ្នកប្រើប្រាស់) ត្រូវដឹង : 
+#### អ្នកប្រើប្រាស់ទទួលបានព័ត៌មានចំនួន ១ គឺ :
+- Setting : ទទួលបានផ្ទាំង *Account* , *Change Password* និង *Roles*
+>ចំពោះ Roles : **STATUS** ពុំអនុញ្ញាតឲ្យមានការគ្រប់គ្រងទេ
+
+![Pic ](./pictures/Roles/ManageAccess/Settings/setting13.png)
+:::
+## ២៨. ការបើកគ្រប់ចំណុចដែលមានក្នុង Roles ស្ថិតក្នុង Settings នៅ User Interface និង បើក Read តែម្យ៉ាងក្នុង User Permission
+::: tip វិធីសាស្ត្រយល់ដឹងក្រោយបើកគ្រប់ចំណុចដែលមានក្នុង Roles ស្ថិតក្នុង Settings នៅ User Interface និងបើក Read តែម្យ៉ាងក្នុង User Permission
+
+ព័ត៌មានសម្រាប់ Admin ត្រូវធ្វើ : 
+- ចុចបើក ត្រឹមតែ **Read** នៅក្នុង *User Actions*
+- ចុចបើកគ្រប់ចំណុចក្នុង *Roles* ស្ថិតក្នុង *Settings* នឹងក្នុង *User Interface*
+
+![Pic ](./pictures/Roles/ManageAccess/Settings/setting14.png)
+![Pic ](./pictures/Roles/ManageAccess/Settings/setting3.png)
+
+ព័ត៌មានសម្រាប់ User (អ្នកប្រើប្រាស់) ត្រូវដឹង : 
+#### អ្នកប្រើប្រាស់ទទួលបានព័ត៌មានចំនួន ១ គឺ :
+- Setting : ទទួលបានផ្ទាំង *Account* , *Change Password* និង *Roles*
+
+![Pic ](./pictures/Roles/ManageAccess/Settings/setting16.png)
 :::

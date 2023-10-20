@@ -108,6 +108,13 @@ module.exports = {
           children: [
             'ManageAccess',
           ]
+        },
+        {
+          title: 'Users នៅក្នុង Setting',
+          collapsable: false,
+          children: [
+            'UserInSettingInterface',
+          ]
         }
       ],
     }
