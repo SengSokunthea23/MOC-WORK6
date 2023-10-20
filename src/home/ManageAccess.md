@@ -741,4 +741,62 @@ Admin បានមកដល់ក្នុង Manage Access :
 :::
 ## ២៣. ការបើកគ្រប់ចំណុចដែលមានក្នុង SETTINGS ទាំងអស់ និង ក្នុង User Permission ទាំងអស់
 ::: tip វិធីសាស្ត្រយល់ដឹងក្រោយផ្តល់គ្រប់ចំណុចទាំងអស់ទៅលើ Settings ដែលមានក្នុង​ User Interface ដោយអនុញ្ញាតគ្រប់ចំណុចក្នុង User Permission
+ព័ត៌មានសម្រាប់ Admin ត្រូវធ្វើ : 
+- ចុចបើក *User Actions* ទាំងអស់
+- ចុចបើក គ្រប់ចំណុចដែលមានក្នុង **Roles** , **Users** និង **Activity Logs** ហើយក្នុង *User Interface*
+
+![Pic ](./pictures/Roles/ManageAccess/Settings/setting2.png)
+![Pic ](./pictures/Roles/ManageAccess/Settings/setting3.png)
+
+ព័ត៌មានសម្រាប់ User (អ្នកប្រើប្រាស់) ត្រូវដឹង : 
+#### អ្នកប្រើប្រាស់ទទួលបានព័ត៌មានចំនួន ១ គឺ :
+- Settings : ទទួលបាន *Account* , *Change Password* , *Roles* , *Users* និង *Activity Logs*
+
+![Pic ](./pictures/Roles/ManageAccess/Settings/setting4.png)
+:::
+## ២៤. ការបិទគ្រប់ចំណុចដែលមានក្នុង SETTINGS ទាំងអស់ និង តែបើកគ្រប់ចំណុចក្នុង User Permission ទាំងអស់
+::: tip វិធីសាស្ត្រយល់ដឹងក្រោយបិទគ្រប់ចំណុចទាំងអស់ទៅលើ Settings ដែលមានក្នុង​ User Interface ប៉ុន្តែអនុញ្ញាតគ្រប់ចំណុចក្នុង User Permission
+ព័ត៌មានសម្រាប់ Admin ត្រូវធ្វើ : 
+- ចុចបើក *User Actions* ទាំងអស់
+- គ្រប់ចំណុចដែលមានក្នុង *User Interface* មិនអនុញ្ញាតបើកនោះទេ
+
+![Pic ](./pictures/Roles/ManageAccess/Settings/setting2.png)
+![Pic ](./pictures/Roles/ManageAccess/Settings/setting5.png)
+
+ព័ត៌មានសម្រាប់ User (អ្នកប្រើប្រាស់) ត្រូវដឹង : 
+#### អ្នកប្រើប្រាស់ទទួលបានព័ត៌មានចំនួន ១ គឺ :
+- Settings : ទទួលបាន *Account* និង *Change Password*
+
+![Pic ](./pictures/Roles/ManageAccess/Settings/setting6.png)
+:::
+## ២៥. ការបិទគ្រប់ចំណុចដែលមានក្នុង SETTINGS ទាំងអស់ រួមទាំងក្នុង User Permission ទាំងអស់
+::: tip វិធីសាស្ត្រយល់ដឹងក្រោយបិទគ្រប់ចំណុចទាំងអស់ទៅលើ Settings ដែលមានក្នុង​ User Interface និងគ្រប់ចំណុចក្នុង User Permission
+ព័ត៌មានសម្រាប់ Admin ត្រូវធ្វើ : 
+- ចុចបិទបើក *User Actions* ទាំងអស់ លើកលែងតែ **READ**
+- គ្រប់ចំណុចដែលមានក្នុង *User Interface* បិទដូចគ្នា
+
+![Pic ](./pictures/Roles/ManageAccess/Settings/setting7.png)
+![Pic ](./pictures/Roles/ManageAccess/Settings/setting8.png)
+
+ព័ត៌មានសម្រាប់ User (អ្នកប្រើប្រាស់) ត្រូវដឹង : 
+#### អ្នកប្រើប្រាស់ទទួលបានព័ត៌មានចំនួន ១ គឺ :
+
+- Settings : ទទួលបាន *Account* និង *Change Password*
+
+![Pic ](./pictures/Roles/ManageAccess/Settings/setting6.png)
+:::
+## ២៦. ការបើកគ្រប់ចំណុចដែលមានក្នុង Roles ស្ថិតក្នុង Settings ក្នុង User Interface ទាំងអស់
+::: tip វិធីសាស្ត្រយល់ដឹងក្រោយបើកគ្រប់ចំណុចដែលមានក្នុង Roles ស្ថិតក្នុង Settings ក្នុង User Interface និងគ្រប់ចំណុចក្នុង User Permission
+ព័ត៌មានសម្រាប់ Admin ត្រូវធ្វើ : 
+- ចុចបើក *User Actions* ទាំងអស់
+- ចុចបើក គ្រប់ចំណុចដែលមានក្នុង **Roles** ដែលមានក្នុង *User Interface*
+
+![Pic ](./pictures/Roles/ManageAccess/Settings/setting9.png)
+![Pic ](./pictures/Roles/ManageAccess/Settings/setting10.png)
+
+ព័ត៌មានសម្រាប់ User (អ្នកប្រើប្រាស់) ត្រូវដឹង : 
+#### អ្នកប្រើប្រាស់ទទួលបានព័ត៌មានចំនួន ១ គឺ :
+- Setting : ទទួលបានផ្ទាំង *Account* , *Change Password* និង *Roles*
+
+![Pic ](./pictures/Roles/ManageAccess/Settings/setting11.png)
 :::
