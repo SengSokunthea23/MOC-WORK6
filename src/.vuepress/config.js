@@ -115,6 +115,13 @@ module.exports = {
           children: [
             'UserInSettingInterface',
           ]
+        },
+        {
+          title: 'Cloud Storage នៅក្នុង Setting',
+          collapsable: false,
+          children: [
+            'CloudStorageInSettings',
+          ]
         }
       ],
     }
