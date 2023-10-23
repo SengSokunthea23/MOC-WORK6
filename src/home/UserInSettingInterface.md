@@ -30,10 +30,6 @@
 
 ![Pic ](./pictures/Roles/ManageAccess/Settings/USERS/USERS4.png)
 
-<hr/>
-
-![Pic ](./pictures/Roles/ManageAccess/Settings/USERS/USERS1.png)
-
 ::: warning ចំណាំ
-ក្រោយការបង្កើតអ្នកប្រើប្រាស់ថ្មីរួច ឬ **Create User** ហើយ គេហទំព័រនោះនឹងបង្ហាញជាទម្រង់ដើម ដោយបង្ហាញត្រឹមតែ *Settings* ប៉ុណ្ណោះ ។ ការដែលក្លាយជាទម្រង់ដើមនេះផងដែរ ក្នុង *Settings* អាចកែប្រែព័ត៌មានរបស់ខ្លួន (Profile Account) និង ការផ្លាស់ប្តូរពាក្យសម្ងាត់របស់ខ្លួន (Change Password) ។
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ក្រោយការបង្កើតអ្នកប្រើប្រាស់ថ្មីរួច ឬ **Create User** ហើយ គេហទំព័រនោះនឹងបង្ហាញជាទម្រង់ដើម ដោយបង្ហាញត្រឹមតែ *Settings* ប៉ុណ្ណោះ ។ ការដែលក្លាយជាទម្រង់ដើមនេះផងដែរ ក្នុង *Settings* អាចកែប្រែព័ត៌មានរបស់ខ្លួន (Profile Account) និង ការផ្លាស់ប្តូរពាក្យសម្ងាត់របស់ខ្លួន (Change Password) ។
 :::
